@@ -1,4 +1,4 @@
-name: ruby
+name: Ruby Markdown Linting
 
 on: [push]
 

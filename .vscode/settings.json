@@ -18,5 +18,12 @@
         "tab.activeBorder": "#1accff"
     },
     "peacock.color": "#00b3e6",
-    "cSpell.enabled": true
+    "cSpell.enabled": true,
+    "cSpell.words": [
+        "GAMEPLAN",
+        "SHUNBLOG",
+        "SHUNMIND",
+        "TICKTICK",
+        "ZENHUB"
+    ]
 }

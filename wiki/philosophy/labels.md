@@ -10,7 +10,7 @@
 
 #### 1. potential/ai
 
-#### 2. potential/life
+#### 2. potential/mission
 
 #### 3. potential/study
 

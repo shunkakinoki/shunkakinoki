@@ -7,13 +7,13 @@ tags:
   - Python
 ---
 
-# 概要  
+# 概要
 
-本記事はfast.aiのwikiの[Basic Data](https://docs.fast.ai/basic_data.html)ページの要約となります。  
+本記事は fast.ai の wiki の[Basic Data](https://docs.fast.ai/basic_data.html)ページの要約となります。
 筆者の理解した範囲内で記載します。
 
-TrainingのためのDataを準備するための簡易API。
-具体的には、Learnerモジュールに用いるData Bunchオブジェクトを用いる。
+Training のための Data を準備するための簡易 API。
+具体的には、Learner モジュールに用いる Data Bunch オブジェクトを用いる。
 
 ## Data Bunch
 
@@ -21,9 +21,9 @@ TrainingのためのDataを準備するための簡易API。
 DataBunch(train_dl:DataLoader, valid_dl:DataLoader, fix_dl:DataLoader=None, test_dl:Optional[DataLoader]=None, device:device=None, dl_tfms:Optional[Collection[Callable]]=None, path:PathOrStr='.', collate_fn:Callable='data_collate', no_check:bool=False)
 ```
 
-Dataオブジェクトに`train_dl` `valid_dl,` `test_dl`(随意)を結びつける。(dlはdataloaderの省略形)  
-全てのdataloaderがdeviceに取り付けられていることと、`tfms`でdata augmentationがなされていることを保証し、
-`collate_fn`にてPyTorchの`Dataloader`にbatchごとのデータとファイル名の照合を促す。  
+Data オブジェクトに`train_dl` `valid_dl,` `test_dl`(随意)を結びつける。(dl は dataloader の省略形)
+全ての dataloader が device に取り付けられていることと、`tfms`で data augmentation がなされていることを保証し、
+`collate_fn`にて PyTorch の`Dataloader`に batch ごとのデータとファイル名の照合を促す。
 なお、`train_dl` `valid_dl` `test_dl`(随意) は`DeviceDataLoader`に包まれている。
 
 ### create
@@ -40,7 +40,7 @@ create(train_ds:Dataset, valid_ds:Dataset, test_ds:Optional[Dataset]=None, path:
 show_batch(rows:int=5, ds_type:DatasetType=<DatasetType.Train: 1>, **kwargs)
 ```
 
-指定した`row`にてdataのbatchを表示。
+指定した`row`にて data の batch を表示。
 
 ### dl
 
@@ -48,7 +48,7 @@ show_batch(rows:int=5, ds_type:DatasetType=<DatasetType.Train: 1>, **kwargs)
 dl(ds_type:DatasetType=<DatasetType.Valid: 2>) → DeviceDataLoader
 ```
 
- `ds_type`にて指定されたvalidation,training,testの`Dataset`を返す。
+`ds_type`にて指定された validation,training,test の`Dataset`を返す。
 
 ### one_batch
 
@@ -56,7 +56,7 @@ dl(ds_type:DatasetType=<DatasetType.Valid: 2>) → DeviceDataLoader
 one_batch(ds_type:DatasetType=<DatasetType.Train: 1>, detach:bool=True, denorm:bool=True, cpu:bool=True) → Collection[Tensor]
 ```
 
-1つのbatchをDataLoaderより持ってくる。
+1 つの batch を DataLoader より持ってくる。
 
 ### one_item
 
@@ -64,7 +64,7 @@ one_batch(ds_type:DatasetType=<DatasetType.Train: 1>, detach:bool=True, denorm:b
 one_item(item, detach:bool=False, denorm:bool=False, cpu:bool=False)
 ```
 
-itemをbatchへ持ってくる。
+item を batch へ持ってくる。
 
 ### sanity_check
 
@@ -72,7 +72,7 @@ itemをbatchへ持ってくる。
 sanity_check()
 ```
 
-sanity checkを行い、データを確認する。
+sanity check を行い、データを確認する。
 
 ### save
 
@@ -90,9 +90,9 @@ load_data(path:PathOrStr, fname:str='data_save.pkl', bs:int=64, val_bs:int=None,
 
 `DataBunch`を`path/fname`から読み込む。
 
-## PyTorchのDatasetとの互換性
+## PyTorch の Dataset との互換性
 
-PyTorchの`Dataset`との互換性は部分的にサポートされている。詳しくは[こちら](https://docs.fast.ai/basic_data.html#Using-a-custom-Dataset-in-fastai)
+PyTorch の`Dataset`との互換性は部分的にサポートされている。詳しくは[こちら](https://docs.fast.ai/basic_data.html#Using-a-custom-Dataset-in-fastai)
 
 ## DeviceDataLoader
 
@@ -110,8 +110,8 @@ create(dataset:Dataset, bs:int=64, shuffle:bool=False, device:device=device(type
 ```
 
 `shuffle`で`bs`の`dataset`を`num_workers`用いて`DeviceDataLoader`を生成。
-`collate_fn`によって、1つのbatchへとサンプルを照合する。  
-`shuffle`を用いるとdataがシャッフルされ、`tfms`はdata augmmentationに用いられる。
+`collate_fn`によって、1 つの batch へとサンプルを照合する。
+`shuffle`を用いると data がシャッフルされ、`tfms`は data augmmentation に用いられる。
 
 ### add_tfm
 
@@ -135,7 +135,7 @@ remove_tfm(tfm:Callable)
 new(**kwargs)
 ```
 
-kwagsを用いてコピーを生成。
+kwags を用いてコピーを生成。
 
 ### proc_batch
 
@@ -143,12 +143,12 @@ kwagsを用いてコピーを生成。
 proc_batch(b:Tensor) → Tensor
 ```
 
-`TensorImage`のbatch`b`を処理。
+`TensorImage`の batch`b`を処理。
 
 # 最後に
 
-1. basic_dataを用いて自作のdataloaderを作成してみる。
-2. PyTorchからの実際の移植作業をやってみたい。
+1. basic_data を用いて自作の dataloader を作成してみる。
+2. PyTorch からの実際の移植作業をやってみたい。
 3. 自作のノートブックを用いて、実例の用法を紹介してみる。
 
 間違いやご指摘などが御座いましたらご教示願います！

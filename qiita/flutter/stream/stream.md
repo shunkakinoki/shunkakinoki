@@ -1,5 +1,4 @@
-
-# 【Flutter】Streamsとは一体何なのか？
+# 【Flutter】Streams とは一体何なのか？
 
 ## 概要
 

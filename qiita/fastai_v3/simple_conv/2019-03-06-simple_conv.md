@@ -9,11 +9,11 @@ tags:
 
 # 概要
 
-本記事はfast.aiのlayersのなかの`simple_cnn`の仕組みがどうなっているかを深掘りしたものになっております。
+本記事は fast.ai の layers のなかの`simple_cnn`の仕組みがどうなっているかを深掘りしたものになっております。
 筆者の理解した範囲内で記載します。
 なお、[こちらのノートブック](https://github.com/shunkakinoki/outputbook/blob/master/fastai_v3/jupyter/simple_cnn.ipynb)へ全コードが載っております。（英語）
 
-fast.aiの`simple_cnn`を理解し、fast.aiフレームワークの知見を高める。
+fast.ai の`simple_cnn`を理解し、fast.ai フレームワークの知見を高める。
 
 公式ドキュメントは[こちら](https://docs.fast.ai/layers.html#simple_cnn)を参照にしてください。
 
@@ -32,8 +32,8 @@ def simple_cnn(actns:Collection[int], kernel_szs:Collection[int]=None,
     return nn.Sequential(*layers)
 ```
 
-`kernel_szs`のszが複数形なのは、kernel_size(s)で、layerごとに指定できるから。
-他のstride(s)も同様。
+`kernel_szs`の sz が複数形なのは、kernel_size(s)で、layer ごとに指定できるから。
+他の stride(s)も同様。
 
 ##　実装
 
@@ -45,23 +45,25 @@ model = simple_cnn((3,16,16,2))
 model.parameters
 ```
 
-><bound method Module.parameters of Sequential(
-  (0): Sequential(
+> <bound method Module.parameters of Sequential(
+> (0): Sequential(
+
     (0): Conv2d(3, 16, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
     (1): ReLU(inplace)
-  )
-  (1): Sequential(
-    (0): Conv2d(16, 16, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
-    (1): ReLU(inplace)
-  )
-  (2): Sequential(
-    (0): Conv2d(16, 2, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
-    (1): ReLU(inplace)
-  )
-  (3): Sequential(
-    (0): AdaptiveAvgPool2d(output_size=1)
-    (1): Flatten()
-  )
+
+)
+(1): Sequential(
+(0): Conv2d(16, 16, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+(1): ReLU(inplace)
+)
+(2): Sequential(
+(0): Conv2d(16, 2, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+(1): ReLU(inplace)
+)
+(3): Sequential(
+(0): AdaptiveAvgPool2d(output_size=1)
+(1): Flatten()
+)
 )>
 
 ## conv_layer
@@ -87,7 +89,7 @@ def conv_layer(ni:int, nf:int, ks:int=3, stride:int=1, padding:int=None, bias:bo
     return nn.Sequential(*layers)
 ```
 
-初期設定ではkaiming_normal initalizationを用いたconv2dとrelu
+初期設定では kaiming_normal initalization を用いた conv2d と relu
 
 ## PoolFlatten()
 
@@ -97,12 +99,12 @@ def PoolFlatten()->nn.Sequential:
     return nn.Sequential(nn.AdaptiveAvgPool2d(1), Flatten())
 ```
 
-最後に、nn.AdaptiveApgPool2dを追加
+最後に、nn.AdaptiveApgPool2d を追加
 
 # 最後に
 
-1. pytorchのfunctionを掘り下げていきたい
-2. AdaptiveConcatPool2dを解説
+1. pytorch の function を掘り下げていきたい
+2. AdaptiveConcatPool2d を解説
 3. 理解するまでやり切る
 
 間違いやご指摘などが御座いましたらご教示願います！

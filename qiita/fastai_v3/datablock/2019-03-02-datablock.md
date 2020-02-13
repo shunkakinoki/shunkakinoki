@@ -9,14 +9,14 @@ tags:
 
 # 概要
 
-本記事はfast.aiのwikiの[Data Block](https://docs.fast.ai/data_block.html)ページの要約となります。  
+本記事は fast.ai の wiki の[Data Block](https://docs.fast.ai/data_block.html)ページの要約となります。
 筆者の理解した範囲内で記載します。
 
-training, validation, testに用いるデータの読み込みを行うための[DataBunch](https://docs.fast.ai/basic_data.html#DataBunch)の設定をわずか数行のコードで行うことができる！
+training, validation, test に用いるデータの読み込みを行うための[DataBunch](https://docs.fast.ai/basic_data.html#DataBunch)の設定をわずか数行のコードで行うことができる！
 
-## 細かく設定できる非常にフレキシブルなAPI
+## 細かく設定できる非常にフレキシブルな API
 
-今回は以下の7つの例を用いていきます。
+今回は以下の 7 つの例を用いていきます。
 
 1. Binary Classification
 2. Multi Label Classification
@@ -26,7 +26,7 @@ training, validation, testに用いるデータの読み込みを行うための
 6. Text Classification
 7. Tabular
 
-## 1. [Binary Classification] 最初に、MNISTを用いた例を挙げていきます。
+## 1. [Binary Classification] 最初に、MNIST を用いた例を挙げていきます。
 
 ```python
 from fastai.vision import *
@@ -42,7 +42,7 @@ path.ls()
 (path/'train').ls()
 ```
 
-### 肝心のDataBlockは下から！
+### 肝心の DataBlock は下から！
 
 ```python
 data = (ImageList.from_folder(path)     #どこからのデータか? -> pathの中のフォルダとサブフォルダで、ImageList
@@ -53,7 +53,7 @@ data = (ImageList.from_folder(path)     #どこからのデータか? -> pathの
         .databunch())                   #DataBunchへと変換する
 ```
 
-DataBlockを実際に読み込んで出力してみましょう
+DataBlock を実際に読み込んで出力してみましょう
 
 ```python
 data.show_batch(3, figsize=(6,6), hide_axis=False)
@@ -61,9 +61,9 @@ data.show_batch(3, figsize=(6,6), hide_axis=False)
 
 ![1]({{ site.baseurl }}/assets/fastai_v3/datablock/1.png)
 
-すげええええ、本当にたった数行でtrain/validation/testに分けてdata augmentation用いたdatabunchを作成できた！
+すげええええ、本当にたった数行で train/validation/test に分けて data augmentation 用いた databunch を作成できた！
 
-## 2. [Multi Label Classification] 次は、planetを用いた例を挙げていきます。
+## 2. [Multi Label Classification] 次は、planet を用いた例を挙げていきます。
 
 ```python
 planet = untar_data(URLs.PLANET_TINY)
@@ -83,7 +83,7 @@ data = (ImageList.from_csv(planet, 'labels.csv', folder='train', suffix='.jpg')
         #DataBunchへと変換する
 ```
 
-同様にDataBlockを実際に読み込んで出力してみましょう
+同様に DataBlock を実際に読み込んで出力してみましょう
 
 ```python
 data.show_batch(rows=2, figsize=(9,7))
@@ -91,9 +91,9 @@ data.show_batch(rows=2, figsize=(9,7))
 
 ![2]({{ site.baseurl }}/assets/fastai_v3/datablock/2.png)
 
-きちんとmulti-label-classificationが読み込めていますね。
+きちんと multi-label-classification が読み込めていますね。
 
-## 3. [Mask Segmentation] camvidを用いた例を挙げていきます。
+## 3. [Mask Segmentation] camvid を用いた例を挙げていきます。
 
 ```python
 camvid = untar_data(URLs.CAMVID_TINY)
@@ -105,13 +105,13 @@ path_img = camvid/'images'
 codes = np.loadtxt(camvid/'codes.txt', dtype=str); codes
 ```
 
-labelを付け足す関数を自作します。
+label を付け足す関数を自作します。
 
 ```python
 get_y_fn = lambda x: path_lbl/f'{x.stem}_P{x.suffix}'
 ```
 
-`tfm_y＝True`によって、data_augmentationが元々のmaskにも適用されるそう。
+`tfm_y＝True`によって、data_augmentation が元々の mask にも適用されるそう。
 
 ```python
 data = (SegmentationItemList.from_folder(path_img)
@@ -137,7 +137,7 @@ data.show_batch(rows=2, figsize=(7,5))
 簡単すぎ、、なのにすげええええ
 どんどんいきます。
 
-## 4. [Object Detection] cocoを用いた例を挙げます。
+## 4. [Object Detection] coco を用いた例を挙げます。
 
 ```python
 coco = untar_data(URLs.COCO_TINY)
@@ -165,9 +165,9 @@ data.show_batch(rows=2, ds_type=DatasetType.Valid, figsize=(6,6))
 
 ![4]({{ site.baseurl }}/assets/fastai_v3/datablock/4.png)
 
-細かい設定をいじって非常にフレキシブルなAPIですね
+細かい設定をいじって非常にフレキシブルな API ですね
 
-## 5. [Text Language Model] IMDBを用いた例を挙げます。
+## 5. [Text Language Model] IMDB を用いた例を挙げます。
 
 ```python
 from fastai.text import *
@@ -194,11 +194,11 @@ data_lm.show_batch()
 
 ![5]({{ site.baseurl }}/assets/fastai_v3/datablock/5.png)
 
-これだけでLanguage Modelを鍛えることができます。
+これだけで Language Model を鍛えることができます。
 
-### 6. [Text Classification] IMDBを用いた例を挙げます。
+### 6. [Text Classification] IMDB を用いた例を挙げます。
 
-上のLanguage Modelを延長して、
+上の Language Model を延長して、
 
 ```python
 data_clas = (TextList.from_csv(imdb, 'texts.csv', cols='text')
@@ -219,7 +219,7 @@ data_clas.show_batch()
 
 ![6]({{ site.baseurl }}/assets/fastai_v3/datablock/6.png)
 
-### 7. [Text Classification] IMDBを用いた例を挙げます。
+### 7. [Text Classification] IMDB を用いた例を挙げます。
 
 ```python
 from fastai.tabular import *
@@ -253,9 +253,9 @@ data.show_batch()
 
 # 個人的な振り返り
 
-1. 継続的にアウトプットすることでfast.aiの理解度を深め, fast.ai の掲げているdemocratizationへ寄与する。
+1. 継続的にアウトプットすることで fast.ai の理解度を深め, fast.ai の掲げている democratization へ寄与する。
 2. より深い部分のコードを解説していく。
-3. 次回、DataBlockのより細かい設定のAPIを解説していこうと思います。
+3. 次回、DataBlock のより細かい設定の API を解説していこうと思います。
 
-最後に  
+最後に
 間違いやご指摘などが御座いましたらご教示願います！

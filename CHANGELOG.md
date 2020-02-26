@@ -1,3 +1,10 @@
+## [4.0.2](https://github.com/shunkakinoki/shunkakinoki/compare/v4.0.1...v4.0.2) (2020-02-26)
+
+
+### Bug Fixes
+
+* **deps:** bump react-dom from 16.12.0 to 16.13.0 ([f77efa0](https://github.com/shunkakinoki/shunkakinoki/commit/f77efa0defc27b45ae5bf67e71972f76f7b68898))
+
 # [4.0.0](https://github.com/shunkakinoki/shunkakinoki/compare/v3.0.0...v4.0.0) (2020-02-26)
 
 

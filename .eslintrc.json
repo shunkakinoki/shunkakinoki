@@ -21,10 +21,9 @@
       },
       "plugins": ["@typescript-eslint"],
       "rules": {
-        // Already handled by TS
+        "unicorn/filename-case": "off",
         "no-dupe-class-members": "off",
         "no-undef": "off",
-
         // Add TypeScript specific rules (and turn off ESLint equivalents)
         "@typescript-eslint/consistent-type-assertions": "warn",
         "no-array-constructor": "off",
@@ -41,34 +40,13 @@
           }
         ],
         "no-unused-vars": "off",
-        "@typescript-eslint/no-unused-vars": [
-          "warn",
-          {
-            "args": "none",
-            "ignoreRestSiblings": true
-          }
-        ],
+        "@typescript-eslint/no-unused-vars": "off",
         "no-useless-constructor": "off",
-        "@typescript-eslint/no-useless-constructor": "warn"
+        "@typescript-eslint/no-useless-constructor": "off",
+        "import/no-unresolved": "off"
       }
     }
   ],
   "plugins": [],
-  "rules": {
-    "import/no-unresolved": [
-      "error",
-      {
-        "caseSensitive": false
-      }
-    ],
-    "unicorn/filename-case": [
-      "error",
-      {
-        "cases": {
-          "camelCase": true,
-          "pascalCase": true
-        }
-      }
-    ]
-  }
+  "rules": {}
 }

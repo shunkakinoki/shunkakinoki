@@ -1,3 +1,10 @@
+## [4.7.2](https://github.com/shunkakinoki/shunkakinoki/compare/v4.7.1...v4.7.2) (2020-03-04)
+
+
+### Bug Fixes
+
+* 🐛 prettier ([c624a4f](https://github.com/shunkakinoki/shunkakinoki/commit/c624a4fdc8dbe376cf022cf2f500d41c0d765e47))
+
 ## [4.7.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.7.0...v4.7.1) (2020-03-04)
 
 

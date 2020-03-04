@@ -1,3 +1,10 @@
+## [4.12.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.12.0...v4.12.1) (2020-03-04)
+
+
+### Bug Fixes
+
+* 🐛 calendar ([1bca334](https://github.com/shunkakinoki/shunkakinoki/commit/1bca334241ed60dd7df381a15483abbb5644793b))
+
 # [4.12.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.11.0...v4.12.0) (2020-03-04)
 
 

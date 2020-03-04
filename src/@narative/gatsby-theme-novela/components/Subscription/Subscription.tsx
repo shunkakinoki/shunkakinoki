@@ -34,8 +34,8 @@ const Subscription: React.FunctionComponent<{}> = () => {
           setSubscribed(false);
         }, 6000);
       })
-      .catch(error => {
-        setError(error.msg);
+      .catch(error_ => {
+        setError(error_.msg);
       });
   }
 

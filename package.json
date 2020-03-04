@@ -23,6 +23,7 @@
     "prettier-fix": "prettier --write \"**/*.{js,jsx,json,ts,tsx,css,html,yml,yaml,scss,sass}\""
   },
   "dependencies": {
+    "@emotion/styled": "^10.0.27",
     "@narative/gatsby-theme-novela": "^0.*",
     "eslint": "^6.2.2",
     "eslint-config-airbnb-base": "^14.0.0",
@@ -42,35 +43,16 @@
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.0",
     "@semantic-release/exec": "^5.0.0",
+    "@types/node": "^13.7.7",
+    "@types/react": "^16.9.23",
+    "@typescript-eslint/eslint-plugin": "^2.22.0",
+    "@typescript-eslint/parser": "^2.22.0",
     "commitizen": "^4.0.3",
     "eclint": "^2.8.1",
     "git-cz": "^4.3.1",
     "husky": "^4.2.3",
-    "semantic-release": "^17.0.4"
-  },
-  "eslintConfig": {
-    "extends": [
-      "airbnb-base",
-      "plugin:prettier/recommended",
-      "plugin:unicorn/recommended"
-    ],
-    "env": {
-      "browser": false
-    },
-    "overrides": [],
-    "plugins": [],
-    "rules": {
-      "unicorn/no-abusive-eslint-disable": 0,
-      "unicorn/filename-case": [
-        "error",
-        {
-          "cases": {
-            "camelCase": true,
-            "kebabCase": true
-          }
-        }
-      ]
-    }
+    "semantic-release": "^17.0.4",
+    "typescript": "^3.8.3"
   },
   "husky": {
     "hooks": {

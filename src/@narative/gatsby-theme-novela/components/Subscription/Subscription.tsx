@@ -1,15 +1,15 @@
-import addToMailchimp from 'gatsby-plugin-mailchimp';
-import React, { useState } from 'react';
+import addToMailchimp from "gatsby-plugin-mailchimp";
+import React, {useState} from "react";
 
-import Section from '@narative/gatsby-theme-novela/src/components/Section';
-import Headings from '@narative/gatsby-theme-novela/src/components/Headings';
+import Section from "@narative/gatsby-theme-novela/src/components/Section";
+import Headings from "@narative/gatsby-theme-novela/src/components/Headings";
 
-import styled from '@emotion/styled';
-import mediaqueries from '@narative/gatsby-theme-novela/src/styles/media';
+import styled from "@emotion/styled";
+import mediaqueries from "@narative/gatsby-theme-novela/src/styles/media";
 
 const Subscription: React.FunctionComponent<{}> = () => {
-  const [email, setEmail] = useState('');
-  const [error, setError] = useState('');
+  const [email, setEmail] = useState("");
+  const [error, setError] = useState("");
   const [subscribed, setSubscribed] = useState(false);
 
   function handleSubmit(event: React.FormEvent<HTMLFormElement>) {
@@ -18,17 +18,17 @@ const Subscription: React.FunctionComponent<{}> = () => {
     addToMailchimp(
       email,
       {
-        'group[67373]': '1',
+        "group[67373]": "1",
       },
       null,
     )
       .then(data => {
-        if (data.result === 'error') {
+        if (data.result === "error") {
           throw data;
         }
 
         setSubscribed(true);
-        setEmail('');
+        setEmail("");
 
         setTimeout(() => {
           setSubscribed(false);
@@ -41,7 +41,7 @@ const Subscription: React.FunctionComponent<{}> = () => {
 
   function handleEmailChange(event: React.ChangeEvent<HTMLInputElement>) {
     setEmail(event.currentTarget.value);
-    setError('');
+    setError("");
   }
 
   return (
@@ -71,9 +71,9 @@ const Subscription: React.FunctionComponent<{}> = () => {
               subscribed={subscribed}
               disabled={subscribed}
             >
-              {subscribed ? <CheckMarkIcon /> : 'Subscribe'}
+              {subscribed ? <CheckMarkIcon /> : "Subscribe"}
             </Button>
-            {error && <Error dangerouslySetInnerHTML={{ __html: error }} />}
+            {error && <Error dangerouslySetInnerHTML={{__html: error}} />}
           </Form>
         </Content>
       </SubscriptionContainer>
@@ -132,11 +132,11 @@ const Text = styled.p`
   `}
 `;
 
-const Form = styled.form<{ hasError: string }>`
+const Form = styled.form<{hasError: string}>`
   position: relative;
 
   &::after {
-    content: '>';
+    content: ">";
     position: absolute;
     left: 21px;
     top: 10px;
@@ -149,7 +149,7 @@ const Form = styled.form<{ hasError: string }>`
   }
 `;
 
-const Input = styled.input<{ hasError: string }>`
+const Input = styled.input<{hasError: string}>`
   position: relative;
   background: ${p =>
     p.hasError
@@ -182,7 +182,7 @@ const Input = styled.input<{ hasError: string }>`
   `}
 `;
 
-const Button = styled.button<{ hasError: string; subscribed: boolean }>`
+const Button = styled.button<{hasError: string; subscribed: boolean}>`
   position: absolute;
   left: 306px;
   top: 3px;
@@ -194,7 +194,7 @@ const Button = styled.button<{ hasError: string; subscribed: boolean }>`
   border: 1px solid
     ${p => (p.hasError ? p.theme.colors.error : p.theme.colors.accent)};
   color: ${p => (p.hasError ? p.theme.colors.error : p.theme.colors.accent)};
-  background: ${p => (p.subscribed ? p.theme.colors.accent : 'transparent')};
+  background: ${p => (p.subscribed ? p.theme.colors.accent : "transparent")};
   font-weight: 600;
   border-radius: 35px;
   letter-spacing: 0.42px;

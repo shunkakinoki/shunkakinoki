@@ -14,15 +14,15 @@ module.exports = {
         url: `https://github.com/shunkakinoki`,
       },
     ],
-    languages: ['en', 'ja'],
+    languages: ["en", "ja"],
   },
   plugins: [
     {
-      resolve: '@narative/gatsby-theme-novela',
+      resolve: "@narative/gatsby-theme-novela",
       options: {
-        contentPosts: 'content/posts',
-        contentAuthors: 'content/authors',
-        basePath: '/',
+        contentPosts: "content/posts",
+        contentAuthors: "content/authors",
+        basePath: "/",
         authorsPage: true,
         mailchimp: true,
         sources: {
@@ -43,27 +43,27 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-i18n',
+      resolve: "gatsby-plugin-i18n",
       options: {
-        langKeyForNull: 'ja',
-        langKeyDefault: 'ja',
+        langKeyForNull: "ja",
+        langKeyDefault: "ja",
         useLangKeyLayout: true,
         prefixDefault: true,
-        pagesPaths: ['/content'],
+        pagesPaths: ["/content"],
       },
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-134813374-5',
+        trackingId: "UA-134813374-5",
         anonymize: true,
       },
     },
     {
-      resolve: 'gatsby-plugin-mailchimp',
+      resolve: "gatsby-plugin-mailchimp",
       options: {
         endpoint:
-          'https://shunkakinoki.us4.list-manage.com/subscribe/post?u=12161f05e225d968a8366de58&amp;id=65c5673d05',
+          "https://shunkakinoki.us4.list-manage.com/subscribe/post?u=12161f05e225d968a8366de58&amp;id=65c5673d05",
       },
     },
   ],

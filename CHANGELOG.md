@@ -1,3 +1,10 @@
+# [4.10.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.9.0...v4.10.0) (2020-03-04)
+
+
+### Features
+
+* 🎸 kops ([996c860](https://github.com/shunkakinoki/shunkakinoki/commit/996c860c89f650b93fd5005111f7a648e7eb3f05))
+
 # [4.8.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.7.3...v4.8.0) (2020-03-04)
 
 

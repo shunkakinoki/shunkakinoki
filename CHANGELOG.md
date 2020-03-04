@@ -1,3 +1,10 @@
+# [4.12.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.11.0...v4.12.0) (2020-03-04)
+
+
+### Features
+
+* 🎸 journal ([590682f](https://github.com/shunkakinoki/shunkakinoki/commit/590682f771aac5a81519542d6e8a6f846a0dc185))
+
 # [4.11.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.10.0...v4.11.0) (2020-03-04)
 
 

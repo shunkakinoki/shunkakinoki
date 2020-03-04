@@ -7571,6 +7571,10 @@ gatsby-telemetry@^1.1.49:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
+"gatsby-theme-novela-workspace@https://github.com/narative/gatsby-theme-novela":
+  version "0.0.1"
+  resolved "https://github.com/narative/gatsby-theme-novela#7ba0d925b8dfe76232306d288d96d5b32727a453"
+
 gatsby-transformer-remark@^2.6.9:
   version "2.6.53"
   resolved "https://registry.yarnpkg.com/gatsby-transformer-remark/-/gatsby-transformer-remark-2.6.53.tgz#f35c4c196eb4e6b96fed03c9a2ebde005619ae0b"

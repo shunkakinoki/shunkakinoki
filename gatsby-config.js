@@ -1,17 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: `Blog`,
-    name: `Blog by Shun Kakinoki`,
-    siteUrl: `https://blog.shunkakinoki.com`,
-    description: `Personal Blog by Shun Kakinoki`,
+    title: "Blog",
+    name: "Blog by Shun Kakinoki",
+    siteUrl: "https://blog.shunkakinoki.com",
+    description: "Personal Blog by Shun Kakinoki",
     hero: {
-      heading: `My Journey Towards Obliterating the Galaxy.`,
+      heading: "My Journey Towards Obliterating the Galaxy.",
       maxWidth: 652,
     },
     social: [
       {
-        name: `github`,
-        url: `https://github.com/shunkakinoki`,
+        name: "github",
+        url: "https://github.com/shunkakinoki",
       },
     ],
     languages: ["en", "ja"],
@@ -31,15 +31,15 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-manifest`,
+      resolve: "gatsby-plugin-manifest",
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
-        start_url: `/`,
-        background_color: `#fff`,
-        theme_color: `#fff`,
-        display: `standalone`,
-        icon: `src/assets/favicon.png`,
+        name: "Novela by Narative",
+        short_name: "Novela",
+        start_url: "/",
+        background_color: "#fff",
+        theme_color: "#fff",
+        display: "standalone",
+        icon: "src/assets/favicon.png",
       },
     },
     {
@@ -53,7 +53,7 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: "gatsby-plugin-google-analytics",
       options: {
         trackingId: "UA-134813374-5",
         anonymize: true,

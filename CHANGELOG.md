@@ -1,3 +1,15 @@
+# [4.8.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.7.3...v4.8.0) (2020-03-04)
+
+
+### Bug Fixes
+
+* 🐛 unicorn ([c77fc1f](https://github.com/shunkakinoki/shunkakinoki/commit/c77fc1fe731ba11f29a348bc7d0a06b0db90c100))
+
+
+### Features
+
+* 🎸 fina-eslint-config ([fa6c75a](https://github.com/shunkakinoki/shunkakinoki/commit/fa6c75a5db79b9ea914c132a92391b3ee8c8e713))
+
 ## [4.7.3](https://github.com/shunkakinoki/shunkakinoki/compare/v4.7.2...v4.7.3) (2020-03-04)
 
 

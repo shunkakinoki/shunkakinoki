@@ -5,11 +5,11 @@
       "includePath": [
         "${workspaceFolder}/**",
         "/usr/local/include/**",
-        "/usr/local/Cellar/gcc/9.2.0_1/include/c++/9.2.0/x86_64-apple-darwin19/**"
+        "/usr/local/Cellar/gcc/9.2.0_3/include/c++/9.2.0/x86_64-apple-darwin19/**"
       ],
       "defines": [],
       "macFrameworkPath": ["/System/Library/Frameworks", "/Library/Frameworks"],
-      "compilerPath": "/usr/local/Cellar/gcc/9.2.0_1/bin/g++-9",
+      "compilerPath": "/usr/local/Cellar/gcc/9.2.0_3/bin/g++-9",
       "cppStandard": "c++14",
       "intelliSenseMode": "clang-x64"
     }

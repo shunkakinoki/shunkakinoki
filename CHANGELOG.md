@@ -1,3 +1,15 @@
+# [4.14.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.13.0...v4.14.0) (2020-03-05)
+
+
+### Bug Fixes
+
+* 🐛 style ([ce4dc98](https://github.com/shunkakinoki/shunkakinoki/commit/ce4dc9897b0c21684733ba8501da8e7fe0687ee6))
+
+
+### Features
+
+* 🎸 cpp ([924114d](https://github.com/shunkakinoki/shunkakinoki/commit/924114d3abfb94d10147c32044a5ac5e384e0ea2))
+
 # [4.13.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.12.2...v4.13.0) (2020-03-05)
 
 

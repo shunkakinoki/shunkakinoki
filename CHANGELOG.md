@@ -1,3 +1,10 @@
+# [4.17.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.16.0...v4.17.0) (2020-03-05)
+
+
+### Features
+
+* 🎸 ini ([03df00b](https://github.com/shunkakinoki/shunkakinoki/commit/03df00b805b8716533fd9f29d66ba87464750964))
+
 # [4.16.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.15.0...v4.16.0) (2020-03-05)
 
 

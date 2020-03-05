@@ -22,7 +22,7 @@ signed main() {
     if (a >= (k[i] - 0.050000001) * 60) ans = i;
   if (ans == 0)
     cout << "C"
-         << " " << ans << endl;
+        << " " << ans << endl;
   else
     cout << s[deg / 2250] << " " << ans << endl;
 }

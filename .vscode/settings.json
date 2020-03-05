@@ -17,6 +17,10 @@
   },
   "peacock.color": "#00b3e6",
   "editor.wordWrap": "on",
+  "files.exclude": {
+    "**/*.out": true,
+    "**/target/**": true
+  },
   "cSpell.enabled": true,
   "cSpell.words": [
     "AWSCOST",

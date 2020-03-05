@@ -11,7 +11,7 @@ int main() {
   cin >> b;
 
   string num[9] = {"one", "two",   "three", "four", "five",
-                   "six", "seven", "eight", "nine"};
+                  "six", "seven", "eight", "nine"};
 
   for (int i = a; i <= b; i++) {
     if (i <= 9)

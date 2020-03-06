@@ -2,7 +2,7 @@
   "name": "shunkakinoki",
   "author": "Shun Kakinoki",
   "license": "MIT",
-  "version": "4.17.2",
+  "version": "4.17.3",
   "homepage": "https://github.com/shunkakinoki/shunkakinoki",
   "repository": {
     "type": "git",
@@ -39,7 +39,7 @@
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.0",
     "@semantic-release/exec": "^5.0.0",
-    "@types/node": "^13.7.7",
+    "@types/node": "^13.9.0",
     "@types/react": "^16.9.23",
     "@typescript-eslint/eslint-plugin": "^2.22.0",
     "commitizen": "^4.0.3",

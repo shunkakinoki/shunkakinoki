@@ -48,7 +48,7 @@
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-config-prettier": "^6.1.0",
     "eslint-plugin-prettier": "^3.1.0",
-    "eslint-plugin-react": "^7.18.3",
+    "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-unicorn": "^16.1.1",
     "git-cz": "^4.3.1",
     "husky": "^4.2.3",

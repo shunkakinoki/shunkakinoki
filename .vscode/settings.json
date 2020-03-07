@@ -1,4 +1,5 @@
 {
+  /// PEACOCK
   "workbench.colorCustomizations": {
     "activityBar.background": "#1accff",
     "activityBar.activeBorder": "#df00ad",
@@ -16,11 +17,32 @@
     "tab.activeBorder": "#1accff"
   },
   "peacock.color": "#00b3e6",
+  /// WORDWRAP
   "editor.wordWrap": "on",
+  /// CODERUNNER
+  "code-runner.executorMap": {
+    "cpp": "cd $dir && /usr/local/Cellar/gcc/9.2.0_3/bin/g++-9 -O2 -std=c++14 $fileName -o $fileNameWithoutExt.out && ./$fileNameWithoutExt.out",
+  },
+  "code-runner.runInTerminal": true,
+  "code-runner.saveFileBeforeRun": true,
+  /// CPP
+  "C_Cpp.clang_format_fallbackStyle": "Google",
+  "C_Cpp.clang_format_sortIncludes": true,
+  "C_Cpp.default.compilerPath": "/usr/local/bin/g++-9",
+  "C_Cpp.default.cppStandard": "c++14",
+  "C_Cpp.default.cStandard": "c11",
+  "C_Cpp.default.intelliSenseMode": "gcc-x64",
+  "C_Cpp.experimentalFeatures": "Enabled",
+  "C_Cpp.intelliSenseCacheSize": 0,
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "C_Cpp.intelliSenseEngineFallback": "Enabled",
+  "C_Cpp.updateChannel": "Insiders",
+  "C_Cpp.workspaceSymbols": "All",
   "files.exclude": {
     "**/*.out": true,
     "**/target/**": true
   },
+  /// SPELLING
   "cSpell.enabled": true,
   "cSpell.words": [
     "AWSCOST",
@@ -55,6 +77,7 @@
     "SHIBUYA",
     "SHUNMIND",
     "SIMPLENOTE",
+    "SOTA",
     "TICKTICK",
     "VENV",
     "Youtube",

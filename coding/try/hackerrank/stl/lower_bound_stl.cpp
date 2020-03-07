@@ -11,21 +11,15 @@ int main() {
   int n;
   cin >> n;
 
-  vector<int> x;
+  vector<int> v;
   for (int i = 0; i < n; i++) {
-    int xi;
-    cin >> xi;
-    x.push_back(xi);
+    int x;
+    cin >> x;
+    v.push_back(x);
   }
-
-  sort(x.begin(), x.end());
 
   int q;
   cin >> q;
-
-  for (int i = 0; i < n; i++) {
-    cout << v[i] << ' ';
-  }
 
   return 0;
 }

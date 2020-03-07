@@ -21,7 +21,7 @@
   "editor.wordWrap": "on",
   /// CODERUNNER
   "code-runner.executorMap": {
-    "cpp": "cd $dir && /usr/local/Cellar/gcc/9.2.0_3/bin/g++-9 -O2 -std=c++14 $fileName -o $fileNameWithoutExt.out && ./$fileNameWithoutExt.out",
+    "cpp": "cd $dir && /usr/local/Cellar/gcc/9.2.0_3/bin/g++-9 -O2 -std=c++14 $fileName -o $fileNameWithoutExt.out && ./$fileNameWithoutExt.out"
   },
   "code-runner.runInTerminal": true,
   "code-runner.saveFileBeforeRun": true,

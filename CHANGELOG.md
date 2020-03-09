@@ -1,3 +1,10 @@
+## [4.19.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.19.0...v4.19.1) (2020-03-09)
+
+
+### Bug Fixes
+
+* 🐛 fin 0308 ([8e1acf5](https://github.com/shunkakinoki/shunkakinoki/commit/8e1acf5a498e125c69425985f8240aa44a895434))
+
 # [4.19.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.18.0...v4.19.0) (2020-03-07)
 
 

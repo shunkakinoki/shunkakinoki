@@ -1,3 +1,10 @@
+## [4.20.7](https://github.com/shunkakinoki/shunkakinoki/compare/v4.20.6...v4.20.7) (2020-03-13)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump acorn from 6.4.0 to 6.4.1 ([f6c9ff9](https://github.com/shunkakinoki/shunkakinoki/commit/f6c9ff9bb7edd1d243eb0e28906e25a0d02eb4d6))
+
 ## [4.20.6](https://github.com/shunkakinoki/shunkakinoki/compare/v4.20.5...v4.20.6) (2020-03-13)
 
 

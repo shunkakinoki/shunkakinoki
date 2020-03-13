@@ -9,6 +9,9 @@ jobs:
         with:
           toolchain: stable
           override: true
+      - name: Override cargo permissions
+        run: |
+          sudo chown -R $(whoami):$(id -ng) ~/.cargo
       - name: Cache cargo registry
         uses: actions/cache@v1
         with:

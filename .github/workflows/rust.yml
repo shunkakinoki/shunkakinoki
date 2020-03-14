@@ -51,4 +51,4 @@ jobs:
           args: -- -D warnings
       - name: Override cargo permissions
         run: |
-          sudo chown -R $(whoami):$(id -ng) ~/.cargo
+          sudo chown -R $(whoami):$(id -ng) ~/.cargo/

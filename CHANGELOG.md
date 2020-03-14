@@ -1,3 +1,11 @@
+## [4.21.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.21.0...v4.21.1) (2020-03-14)
+
+
+### Bug Fixes
+
+* 🐛 add nolint ([a13d8bb](https://github.com/shunkakinoki/shunkakinoki/commit/a13d8bb998380f490e918fd3d05aba3ccafbb275))
+* 🐛 test ([a863f87](https://github.com/shunkakinoki/shunkakinoki/commit/a863f876baa25707050664c7a04c2fc8b4911cd1))
+
 # [4.21.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.20.8...v4.21.0) (2020-03-14)
 
 

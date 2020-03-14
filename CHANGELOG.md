@@ -1,3 +1,10 @@
+## [4.21.2](https://github.com/shunkakinoki/shunkakinoki/compare/v4.21.1...v4.21.2) (2020-03-14)
+
+
+### Bug Fixes
+
+* 🐛 ini 03 15 ([0609516](https://github.com/shunkakinoki/shunkakinoki/commit/0609516dfd830278ff3acc9160714eb2004ea069))
+
 ## [4.21.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.21.0...v4.21.1) (2020-03-14)
 
 

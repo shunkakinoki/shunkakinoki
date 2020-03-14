@@ -1,6 +1,6 @@
 [package]
 name = "shunkakinoki"
-version = "4.20.7"
+version = "4.20.8"
 authors = ["Shun Kakinoki <shunkakinoki@gmail.com>"]
 edition = "2018"
 license = "MIT"

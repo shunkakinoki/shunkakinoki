@@ -75,4 +75,4 @@ jobs:
           HUSKY_SKIP_HOOKS: 1
       - name: Override cargo permissions
         run: |
-          sudo chown -R $(whoami):$(id -ng) ~/.cargo
+          sudo chown -R $(whoami):$(id -ng) ~/.cargo/

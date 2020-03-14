@@ -19,7 +19,7 @@ int main() {
     cin >> C;
 
     cout << hex << left << showbase << nouppercase;
-    cout << (long long)A << endl;
+    cout << (long long)A << endl;  // NOLINT(runtime/int)
 
     cout << dec << right << setw(15) << setfill('_') << showpos << fixed
          << setprecision(2);

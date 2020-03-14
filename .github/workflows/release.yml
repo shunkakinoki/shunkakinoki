@@ -28,9 +28,6 @@ jobs:
         if: steps.cache.outputs.cache-hit != 'true'
         run: |
           yarn install
-      - name: Override cargo permissions
-        run: |
-          sudo chown -R $(whoami):$(id -ng) ~/.cargo
       - name: Cache cargo registry
         uses: actions/cache@v1
         with:
@@ -76,3 +73,6 @@ jobs:
           branch-suffix: short-commit-hash
         env:
           HUSKY_SKIP_HOOKS: 1
+      - name: Override cargo permissions
+        run: |
+          sudo chown -R $(whoami):$(id -ng) ~/.cargo

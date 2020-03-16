@@ -1,3 +1,10 @@
+## [4.22.3](https://github.com/shunkakinoki/shunkakinoki/compare/v4.22.2...v4.22.3) (2020-03-16)
+
+
+### Bug Fixes
+
+* 🐛 journal strategy ini ([9442dab](https://github.com/shunkakinoki/shunkakinoki/commit/9442dabe06793228f64942e718e7bc394f8becb0))
+
 ## [4.22.2](https://github.com/shunkakinoki/shunkakinoki/compare/v4.22.1...v4.22.2) (2020-03-15)
 
 

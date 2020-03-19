@@ -1,3 +1,10 @@
+## [4.22.12](https://github.com/shunkakinoki/shunkakinoki/compare/v4.22.11...v4.22.12) (2020-03-19)
+
+
+### Bug Fixes
+
+* **deps:** bump react from 16.13.0 to 16.13.1 ([3e4fced](https://github.com/shunkakinoki/shunkakinoki/commit/3e4fcedc292adbcff94beb639aa404834ac91dd0))
+
 ## [4.22.11](https://github.com/shunkakinoki/shunkakinoki/compare/v4.22.10...v4.22.11) (2020-03-19)
 
 

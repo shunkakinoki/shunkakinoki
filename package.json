@@ -34,7 +34,7 @@
     "gatsby-plugin-manifest": "^2.2.48",
     "prettier": "^1.18.2",
     "react": "^16.13.1",
-    "react-dom": "^16.13.0"
+    "react-dom": "^16.13.1"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.0",

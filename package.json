@@ -39,7 +39,7 @@
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.0",
     "@semantic-release/exec": "^5.0.0",
-    "@types/node": "^13.9.2",
+    "@types/node": "^13.9.3",
     "@types/react": "^16.9.25",
     "@typescript-eslint/eslint-plugin": "^2.24.0",
     "commitizen": "^4.0.3",

@@ -32,7 +32,7 @@
     "gatsby-plugin-i18n": "^1.0.1",
     "gatsby-plugin-mailchimp": "^5.1.2",
     "gatsby-plugin-manifest": "^2.3.2",
-    "prettier": "^2.0.1",
+    "prettier": "^2.0.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },

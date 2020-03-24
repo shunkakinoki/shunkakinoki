@@ -39,7 +39,7 @@ module.exports = {
         background_color: "#fff",
         theme_color: "#fff",
         display: "standalone",
-        icon: "src/assets/favicon.png",
+        // icon: "src/assets/favicon.png",
       },
     },
     {

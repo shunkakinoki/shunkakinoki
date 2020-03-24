@@ -1,3 +1,10 @@
+# [4.23.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.22.24...v4.23.0) (2020-03-24)
+
+
+### Features
+
+* 🎸 add author png ([f388e67](https://github.com/shunkakinoki/shunkakinoki/commit/f388e67641d24123f43764753bfd9f23265d88fb))
+
 ## [4.22.24](https://github.com/shunkakinoki/shunkakinoki/compare/v4.22.23...v4.22.24) (2020-03-23)
 
 

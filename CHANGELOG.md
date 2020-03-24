@@ -1,3 +1,10 @@
+## [4.23.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.0...v4.23.1) (2020-03-24)
+
+
+### Bug Fixes
+
+* 🐛 gatsby plugin manifest ([138a597](https://github.com/shunkakinoki/shunkakinoki/commit/138a597f6e8600ac880e65af5b99c8ac22097000))
+
 # [4.23.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.22.24...v4.23.0) (2020-03-24)
 
 

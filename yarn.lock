@@ -1493,7 +1493,7 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@narative/gatsby-theme-novela@^0.*":
+"@narative/gatsby-theme-novela@^0.13.3":
   version "0.13.3"
   resolved "https://registry.yarnpkg.com/@narative/gatsby-theme-novela/-/gatsby-theme-novela-0.13.3.tgz#8f814b8306550130ff7c961aae7be17acc3cfe42"
   integrity sha512-jzKb1g/PiO1Sy7VRimcUwJsMuFoGFO1C6JSdfQAD0Qw2MCBQ49/G0OMp2UmKRpHXR2hDvwoZyy5yNQWTZCGwWg==
@@ -15884,9 +15884,9 @@ sharp@^0.23.4:
     tunnel-agent "^0.6.0"
 
 sharp@^0.25.1:
-  version "0.25.1"
-  resolved "https://registry.yarnpkg.com/sharp/-/sharp-0.25.1.tgz#7bcc9c0ed0debcf1109913e4b3e901d56e957f07"
-  integrity sha512-CO/16EfYsSPUyW0uHNVhMMR6mqMeMKA5AjVA0/yH2VgYCX+M7jCklzciHGZdOfewDUMVSiu5elFFpkvvhPwgoA==
+  version "0.25.2"
+  resolved "https://registry.yarnpkg.com/sharp/-/sharp-0.25.2.tgz#f9003d73be50e9265e98f79f04fe53d8c66a3967"
+  integrity sha512-l1GN0kFNtJr3U9i9pt7a+vo2Ij0xv4tTKDIPx8W6G9WELhPwrMyZZJKAAQNBSI785XB4uZfS5Wpz8C9jWV4AFQ==
   dependencies:
     color "^3.1.2"
     detect-libc "^1.0.3"

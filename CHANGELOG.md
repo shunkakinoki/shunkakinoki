@@ -1,3 +1,10 @@
+## [4.23.7](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.6...v4.23.7) (2020-03-26)
+
+
+### Bug Fixes
+
+* **deps:** bump gatsby from 2.20.6 to 2.20.7 ([b64fb17](https://github.com/shunkakinoki/shunkakinoki/commit/b64fb174a49b8bfdea455f834a9b3146e8653e3c))
+
 ## [4.23.5](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.4...v4.23.5) (2020-03-25)
 
 

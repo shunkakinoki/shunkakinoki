@@ -37,7 +37,7 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "@semantic-release/changelog": "^5.0.0",
+    "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/exec": "^5.0.0",
     "@types/node": "^13.9.4",
     "@types/react": "^16.9.26",

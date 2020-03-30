@@ -23,4 +23,4 @@ self_update = "0.14"
 webbrowser = "0.5.2"
 
 [dev-dependencies]
-version-sync = "0.8"
+version-sync = "0.9"

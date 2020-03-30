@@ -1,3 +1,10 @@
+## [4.23.10](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.9...v4.23.10) (2020-03-30)
+
+
+### Bug Fixes
+
+* **deps:** bump version-sync from 0.8.1 to 0.9.0 ([e4347d7](https://github.com/shunkakinoki/shunkakinoki/commit/e4347d777d722054aaf9ea693b20a8389e0c3cb5))
+
 ## [4.23.9](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.8...v4.23.9) (2020-03-30)
 
 

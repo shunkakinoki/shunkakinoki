@@ -1,3 +1,10 @@
+## [4.23.14](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.13...v4.23.14) (2020-04-05)
+
+
+### Bug Fixes
+
+* **deps:** bump prettier from 2.0.2 to 2.0.3 ([99f6492](https://github.com/shunkakinoki/shunkakinoki/commit/99f649299e90e9bf861c70392cf093185064508b))
+
 ## [4.23.13](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.12...v4.23.13) (2020-04-03)
 
 

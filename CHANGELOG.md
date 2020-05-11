@@ -1,3 +1,10 @@
+## [4.23.57](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.56...v4.23.57) (2020-05-11)
+
+
+### Bug Fixes
+
+* **deps:** bump clap from 2.33.0 to 2.33.1 ([45e3f98](https://github.com/shunkakinoki/shunkakinoki/commit/45e3f98f23cad271ff791aa3dd399f1d59d0b430))
+
 ## [4.23.56](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.55...v4.23.56) (2020-05-11)
 
 

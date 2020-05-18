@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@emotion/styled": "^10.0.27",
-    "@narative/gatsby-theme-novela": "^0.15.5",
+    "@narative/gatsby-theme-novela": "^0.15.6",
     "gatsby": "^2.21.33",
     "gatsby-plugin-google-analytics": "^2.3.1",
     "gatsby-plugin-i18n": "^1.0.1",

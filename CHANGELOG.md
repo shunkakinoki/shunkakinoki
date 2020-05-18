@@ -1,3 +1,11 @@
+## [4.23.70](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.69...v4.23.70) (2020-05-18)
+
+
+### Bug Fixes
+
+* **deps:** bump gatsby from 2.21.33 to 2.21.36 ([5072285](https://github.com/shunkakinoki/shunkakinoki/commit/50722857ae67665989ec0fa313fff4f62892daae))
+* **deps:** bump gatsby-plugin-manifest from 2.4.3 to 2.4.5 ([2811246](https://github.com/shunkakinoki/shunkakinoki/commit/2811246c3474eb0c82be9398b488616cbee9df52))
+
 ## [4.23.68](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.67...v4.23.68) (2020-05-18)
 
 

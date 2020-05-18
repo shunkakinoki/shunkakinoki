@@ -19,7 +19,7 @@ path = "shunkakinoki/tests/main.rs"
 
 [dependencies]
 clap = "2.33.1"
-self_update = "0.14"
+self_update = "0.15"
 webbrowser = "0.5.2"
 
 [dev-dependencies]

@@ -1,3 +1,10 @@
+## [4.23.85](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.84...v4.23.85) (2020-05-25)
+
+
+### Bug Fixes
+
+* **deps:** bump gatsby-plugin-mailchimp from 5.1.2 to 5.2.2 ([75133e0](https://github.com/shunkakinoki/shunkakinoki/commit/75133e041a16b32cfc0db5d3f7817c6db030895e))
+
 ## [4.23.84](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.83...v4.23.84) (2020-05-24)
 
 

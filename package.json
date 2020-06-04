@@ -53,7 +53,7 @@
     "git-cz": "^4.6.2",
     "husky": "^4.2.5",
     "semantic-release": "^17.0.8",
-    "typescript": "^3.9.3"
+    "typescript": "^3.9.5"
   },
   "husky": {
     "hooks": {

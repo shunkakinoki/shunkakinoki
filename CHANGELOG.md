@@ -1,3 +1,10 @@
+## [4.23.101](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.100...v4.23.101) (2020-06-09)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump graphql-playground-html from 1.6.19 to 1.6.25 ([6a031ee](https://github.com/shunkakinoki/shunkakinoki/commit/6a031ee58decf8d0538b3ebf74f52e93c429155b))
+
 ## [4.23.100](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.99...v4.23.100) (2020-06-08)
 
 

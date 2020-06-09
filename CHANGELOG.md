@@ -1,3 +1,10 @@
+## [4.23.102](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.101...v4.23.102) (2020-06-09)
+
+
+### Bug Fixes
+
+* **deps:** bump webbrowser from 0.5.2 to 0.5.4 ([4238f24](https://github.com/shunkakinoki/shunkakinoki/commit/4238f24b0b37ae351ca4617b2d180317b212bfa3))
+
 ## [4.23.101](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.100...v4.23.101) (2020-06-09)
 
 

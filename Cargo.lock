@@ -872,7 +872,7 @@ dependencies = [
 
 [[package]]
 name = "shunkakinoki"
-version = "4.23.100"
+version = "4.23.101"
 dependencies = [
  "clap 2.33.1 (registry+https://github.com/rust-lang/crates.io-index)",
  "self_update 0.16.0 (registry+https://github.com/rust-lang/crates.io-index)",

@@ -1,3 +1,10 @@
+## [4.23.105](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.104...v4.23.105) (2020-06-15)
+
+
+### Bug Fixes
+
+* **deps:** bump @narative/gatsby-theme-novela from 0.16.0 to 0.16.1 ([5caff4a](https://github.com/shunkakinoki/shunkakinoki/commit/5caff4aa184e5e3c02a3e3b979e3fa45a2bd1fa7))
+
 ## [4.23.103](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.102...v4.23.103) (2020-06-10)
 
 

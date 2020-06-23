@@ -41,7 +41,7 @@
     "@semantic-release/exec": "^5.0.0",
     "@types/node": "^14.0.13",
     "@types/react": "^16.9.38",
-    "@typescript-eslint/eslint-plugin": "^3.3.0",
+    "@typescript-eslint/eslint-plugin": "^3.4.0",
     "commitizen": "^4.1.2",
     "eclint": "^2.8.1",
     "eslint": "^6.2.2",

@@ -52,7 +52,7 @@
     "eslint-plugin-unicorn": "^18.0.1",
     "git-cz": "^4.7.0",
     "husky": "^4.2.5",
-    "semantic-release": "^17.0.8",
+    "semantic-release": "^17.1.0",
     "typescript": "^3.9.5"
   },
   "husky": {

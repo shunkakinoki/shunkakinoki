@@ -1,3 +1,10 @@
+## [4.23.118](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.117...v4.23.118) (2020-07-01)
+
+
+### Bug Fixes
+
+* **deps:** bump gatsby-plugin-google-analytics from 2.3.6 to 2.3.8 ([4c0c33c](https://github.com/shunkakinoki/shunkakinoki/commit/4c0c33ca27421302070f7491bcc6e4caa6403222))
+
 ## [4.23.117](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.116...v4.23.117) (2020-06-29)
 
 

@@ -44,7 +44,7 @@
     "@typescript-eslint/eslint-plugin": "^3.5.0",
     "commitizen": "^4.1.2",
     "eclint": "^2.8.1",
-    "eslint": "^6.2.2",
+    "eslint": "^7.4.0",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-prettier": "^3.1.4",

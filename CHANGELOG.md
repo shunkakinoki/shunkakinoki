@@ -1,3 +1,10 @@
+## [4.23.148](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.147...v4.23.148) (2020-07-29)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump elliptic from 6.5.2 to 6.5.3 ([dce4110](https://github.com/shunkakinoki/shunkakinoki/commit/dce4110a3232bc26d8b1e3225096c3d31cb96c0c))
+
 ## [4.23.147](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.146...v4.23.147) (2020-07-29)
 
 

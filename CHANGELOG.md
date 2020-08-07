@@ -1,3 +1,10 @@
+## [4.23.160](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.159...v4.23.160) (2020-08-07)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump kramdown from 2.1.0 to 2.3.0 ([0a2ac3a](https://github.com/shunkakinoki/shunkakinoki/commit/0a2ac3a1509e5326163df845c8e9657eeb86a7f4))
+
 ## [4.23.159](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.158...v4.23.159) (2020-08-07)
 
 

@@ -1,3 +1,10 @@
+## [4.23.168](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.167...v4.23.168) (2020-08-23)
+
+
+### Bug Fixes
+
+* **deps:** bump mdl from 0.10.0 to 0.11.0 ([4fef36b](https://github.com/shunkakinoki/shunkakinoki/commit/4fef36b4f078dab262c0e835d9e791427fd42932))
+
 ## [4.23.167](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.166...v4.23.167) (2020-08-14)
 
 

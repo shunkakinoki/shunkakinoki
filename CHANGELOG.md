@@ -1,3 +1,10 @@
+## [4.23.173](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.172...v4.23.173) (2020-08-26)
+
+
+### Bug Fixes
+
+* **deps:** bump gatsby from 2.24.50 to 2.24.51 ([f338285](https://github.com/shunkakinoki/shunkakinoki/commit/f338285a3ef82262247b0424e8101916be9da3b7))
+
 ## [4.23.172](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.171...v4.23.172) (2020-08-25)
 
 

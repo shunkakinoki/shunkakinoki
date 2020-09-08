@@ -1,3 +1,10 @@
+## [4.23.179](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.178...v4.23.179) (2020-09-08)
+
+
+### Bug Fixes
+
+* **deps:** bump gatsby-plugin-manifest from 2.4.27 to 2.4.28 ([5f31653](https://github.com/shunkakinoki/shunkakinoki/commit/5f316530cb3621cbcb3222a7d70020a7db87fae9))
+
 ## [4.23.178](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.177...v4.23.178) (2020-09-01)
 
 

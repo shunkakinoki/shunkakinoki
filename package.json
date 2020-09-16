@@ -31,7 +31,7 @@
     "gatsby-plugin-google-analytics": "^2.3.14",
     "gatsby-plugin-i18n": "^1.0.1",
     "gatsby-plugin-mailchimp": "^5.2.2",
-    "gatsby-plugin-manifest": "^2.4.29",
+    "gatsby-plugin-manifest": "^2.4.30",
     "prettier": "^2.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"

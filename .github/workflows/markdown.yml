@@ -26,4 +26,4 @@ jobs:
           bundle install --jobs 4 --retry 3 --deployment
       - name: Run Markdown Lint
         run: |
-          bundle exec mdl -s style.rb -w psycho src wiki
+          bundle exec mdl -s style.rb -w psycho journal wiki

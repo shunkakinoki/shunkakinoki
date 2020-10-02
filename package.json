@@ -10,10 +10,10 @@
   },
   "scripts": {
     "check": "yarn run depcheck && yarn run lint && yarn run release:check",
-    "fix": "yarn run jsonsort:fix && yarn run sort-package-json:fix && yarn run eslint:fix && yarn run prettier:fix",
+    "fix": "yarn run jsonsort:fix && yarn run sort-package-json:fix && yarn run prettier:fix",
     "jsonsort:check": "jsonsort .devcontainer .vscode locales -a -c",
     "jsonsort:fix": "jsonsort .devcontainer .vscode locales -a",
-    "lint": "yarn run jsonsort:check && yarn run sort-package-json:check && yarn run eslint:check && yarn run prettier:check",
+    "lint": "yarn run jsonsort:check && yarn run sort-package-json:check && yarn run prettier:check",
     "ncu:check": "ncu -p yarn",
     "ncu:upgrade": "ncu -u -p yarn",
     "prettier:check": "prettier --check .",

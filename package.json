@@ -21,9 +21,7 @@
     "release": "semantic-release",
     "release:check": "semantic-release -d",
     "sort-package-json:check": "sort-package-json 'package.json' 'packages/*/package.json' --check",
-    "sort-package-json:fix": "sort-package-json 'package.json' 'packages/*/package.json'",
-    "test": "lerna run test --stream --parallel --scope={@sentrei/functions,@sentrei/ui,@sentrei/video}",
-    "watch": "lerna run watch --stream --parallel --scope={@sentrei/common,@sentrei/functions,@sentrei/types,@sentrei/ui,@sentrei/video}"
+    "sort-package-json:fix": "sort-package-json 'package.json' 'packages/*/package.json'"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",

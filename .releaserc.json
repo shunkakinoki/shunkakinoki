@@ -1,4 +1,15 @@
 {
+  "branches": [
+    "main",
+    {
+      "name": "beta",
+      "prerelease": true
+    },
+    {
+      "name": "alpha",
+      "prerelease": true
+    }
+  ],
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
@@ -8,6 +19,12 @@
       {
         "npmPublish": false,
         "tarballDir": "dist"
+      }
+    ],
+    [
+      "@semantic-release/exec",
+      {
+        "prepareCmd": "yarn run fix"
       }
     ],
     "@semantic-release/github",

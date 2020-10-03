@@ -1,3 +1,17 @@
+# [4.24.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.200...v4.24.0) (2020-10-03)
+
+### Features
+
+- 🎸 complete refactor shunkakinoki ([d3f0ded](https://github.com/shunkakinoki/shunkakinoki/commit/d3f0ded3eb99e40cb3502c8a72d2843d49bac5a8))
+- 🎸 refactor ([56a6038](https://github.com/shunkakinoki/shunkakinoki/commit/56a60388e13ce5ea7a4944008d88884d685c240c))
+- 🎸 refactor remove blog ([b39f127](https://github.com/shunkakinoki/shunkakinoki/commit/b39f12796aca5b016d3f99f290f8c67dece0cf82))
+
+### Performance Improvements
+
+- ⚡️ completely revamp gha ([79308a3](https://github.com/shunkakinoki/shunkakinoki/commit/79308a359ee0e7244fc4ff857475d71a766483e7))
+- ⚡️ ini depcheck script ([56f7e8a](https://github.com/shunkakinoki/shunkakinoki/commit/56f7e8a068c41e9d10e6b54339446474f90fc2f2))
+- ⚡️ ini depcheckrc ignore ([488a204](https://github.com/shunkakinoki/shunkakinoki/commit/488a204c4e9e2e9de6298f8932f7dfb1e7c34e80))
+
 ## [4.23.199](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.198...v4.23.199) (2020-10-01)
 
 ### Bug Fixes

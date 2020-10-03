@@ -1,0 +1,34 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: "00:00"
+    commit-message:
+      prefix: "perf"
+      prefix-development: "chore"
+      include: "scope"
+    open-pull-requests-limit: 0
+  - package-ecosystem: "cargo"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: "00:00"
+    commit-message:
+      prefix: "perf"
+      prefix-development: "chore"
+      include: "scope"
+    versioning-strategy: increase
+    open-pull-requests-limit: 0
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: "00:00"
+    commit-message:
+      prefix: "perf"
+      prefix-development: "chore"
+      include: "scope"
+    versioning-strategy: increase
+    open-pull-requests-limit: 0

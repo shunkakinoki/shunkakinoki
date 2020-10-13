@@ -1,3 +1,9 @@
+# [4.25.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.24.0...v4.25.0) (2020-10-13)
+
+### Features
+
+- 🎸 ini chhiilled cow ([e150c27](https://github.com/shunkakinoki/shunkakinoki/commit/e150c27674d3a40b19597c4dafa7167a1eecf469))
+
 # [4.24.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.23.200...v4.24.0) (2020-10-03)
 
 ### Features

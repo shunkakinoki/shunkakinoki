@@ -25,6 +25,10 @@ jobs:
         with:
           command: build
           args: --release
+      - uses: actions-rs/cargo@v1
+        with:
+          command: install
+          args: semantic-release-rust --version 1.0.0-alpha.6
       - uses: actions/setup-node@v1
         with:
           node-version: "12"

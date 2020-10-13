@@ -1,3 +1,9 @@
+# [4.26.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.25.0...v4.26.0) (2020-10-13)
+
+### Features
+
+- 🎸 ini tmuxinator shell ([ca0d7db](https://github.com/shunkakinoki/shunkakinoki/commit/ca0d7db767accb08a4086ecc2ed4f52470c602aa))
+
 # [4.25.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.24.0...v4.25.0) (2020-10-13)
 
 ### Features

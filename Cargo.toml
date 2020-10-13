@@ -23,4 +23,5 @@ self_update = "0.15"
 webbrowser = "0.5.4"
 
 [dev-dependencies]
+semantic-release-rust = "1.0.0-alpha.6"
 version-sync = "0.9"

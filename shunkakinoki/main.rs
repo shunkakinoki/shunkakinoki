@@ -1,4 +1,5 @@
 use clap::{crate_version, App, AppSettings, Arg, SubCommand};
+use std::process::Command;
 use webbrowser;
 
 mod update;
@@ -8,6 +9,7 @@ fn main() {
         .version(crate_version!())
         .author("Shun Kakinoki <shunkakinoki@gmail.com>")
         .subcommand(SubCommand::with_name("blog").about("Opens blog.shunkakinoki.com"))
+        .subcommand(SubCommand::with_name("chill").about("Streams chilledcow music"))
         .subcommand(SubCommand::with_name("home").about("Opens shunkakinoki.com"))
         .subcommand(SubCommand::with_name("journal").about("Opens journal.shunkakinoki.com"))
         .subcommand(SubCommand::with_name("pitch").about("Opens pitch.shunkakinoki.com"))
@@ -52,6 +54,22 @@ fn main() {
 
     match matches.subcommand() {
         ("blog", Some(_)) => if webbrowser::open("https://blog.shunkakinoki.com").is_ok() {},
+        ("chill", Some(_)) => {
+            let output = Command::new("youtube-dl")
+                .arg("-f")
+                .arg("94")
+                .arg("-g")
+                .arg("https://www.youtube.com/watch?v=5qap5aO4i9A")
+                .output()
+                .expect("Failed to execute process");
+            let link = format!("{}", String::from_utf8_lossy(&output.stdout));
+            Command::new("streamlink")
+                .arg("--hls-live-restart")
+                .arg(link)
+                .arg("best")
+                .output()
+                .expect("Failed to execute process");
+        }
         ("home", Some(_)) => if webbrowser::open("https://home.shunkakinoki.com").is_ok() {},
         ("journal", Some(_)) => if webbrowser::open("https://journal.shunkakinoki.com").is_ok() {},
         ("pitch", Some(_)) => if webbrowser::open("https://pitch.shunkakinoki.com").is_ok() {},

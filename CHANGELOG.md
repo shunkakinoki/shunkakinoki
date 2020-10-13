@@ -1,3 +1,9 @@
+## [4.26.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.26.0...v4.26.1) (2020-10-13)
+
+### Performance Improvements
+
+- ⚡️ ini neofetch ([0a2ebec](https://github.com/shunkakinoki/shunkakinoki/commit/0a2ebeceddbc890deae165dabf021da3bffd3ab2))
+
 # [4.26.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.25.0...v4.26.0) (2020-10-13)
 
 ### Features

@@ -1,5 +1,17 @@
 {
+  "dotfiles.installCommand": "~/dotfiles/install.sh",
+  "dotfiles.repository": "shunkakinoki/dotfiles",
+  "dotfiles.targetPath": "~/dotfiles",
   "peacock.color": "#00b3e6",
+  "remote.containers.dotfiles.installCommand": "~/dotfiles/install.sh",
+  "remote.containers.dotfiles.repository": "https://github.com/shunkakinoki/dotfiles.git",
+  "remote.containers.dotfiles.targetPath": "~/dotfiles",
+  "terminal.integrated.env.linux": {
+    "ZSH_INIT_COMMAND": "mux start website"
+  },
+  "terminal.integrated.env.osx": {
+    "ZSH_INIT_COMMAND": "mux start website"
+  },
   "workbench.colorCustomizations": {
     "activityBar.activeBackground": "#1accff",
     "activityBar.activeBorder": "#df00ad",

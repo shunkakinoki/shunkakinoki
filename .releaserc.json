@@ -24,7 +24,7 @@
     [
       "@semantic-release/exec",
       {
-        "prepareCmd": "yarn run fix && make release"
+        "prepareCmd": "make release VERSION=${nextRelease.version} && yarn run fix"
       }
     ],
     "@semantic-release/github",

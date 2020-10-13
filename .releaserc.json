@@ -24,7 +24,7 @@
     [
       "@semantic-release/exec",
       {
-        "prepareCmd": "yarn run fix"
+        "prepareCmd": "yarn run fix && make release"
       }
     ],
     "@semantic-release/github",

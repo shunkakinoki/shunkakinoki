@@ -1,3 +1,9 @@
+## [4.27.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.27.0...v4.27.1) (2020-10-13)
+
+### Performance Improvements
+
+- ⚡️ ini checkout fetch ([f5234bc](https://github.com/shunkakinoki/shunkakinoki/commit/f5234bc81f83abd5151591f37bc80a6aff525edf))
+
 # [4.27.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.26.1...v4.27.0) (2020-10-13)
 
 ### Features

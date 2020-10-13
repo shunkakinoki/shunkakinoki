@@ -1,0 +1,7 @@
+name: sentrei
+root: ~/ghq/github.com/shunkakinoki/shunkakinoki
+attach: true
+windows:
+  - zsh: pipenv shell
+  - zsh: pipenv shell
+  - zsh: pipenv shell

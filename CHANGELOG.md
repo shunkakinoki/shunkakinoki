@@ -1,3 +1,10 @@
+# [4.27.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.26.1...v4.27.0) (2020-10-13)
+
+### Features
+
+- 🎸 ini make release ([4e37248](https://github.com/shunkakinoki/shunkakinoki/commit/4e372485858a24d0b58110ca56f79c57982e9d67))
+- 🎸 ini make release v2 ([a92c496](https://github.com/shunkakinoki/shunkakinoki/commit/a92c4967a523890e24bb8063a34c88022eb6f390))
+
 ## [4.26.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.26.0...v4.26.1) (2020-10-13)
 
 ### Performance Improvements

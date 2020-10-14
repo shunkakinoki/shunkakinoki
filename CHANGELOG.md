@@ -1,3 +1,9 @@
+## [4.28.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.28.0...v4.28.1) (2020-10-14)
+
+### Performance Improvements
+
+- ⚡️ ini cargo toml ([fb4acbf](https://github.com/shunkakinoki/shunkakinoki/commit/fb4acbf7e18437607886c2f8aa0999c8fbd6f436))
+
 # [4.28.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.27.1...v4.28.0) (2020-10-13)
 
 ### Features

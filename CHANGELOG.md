@@ -1,22 +1,20 @@
 # [4.28.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.27.1...v4.28.0) (2020-10-13)
 
-
 ### Features
 
-* 🎸 ini dev conatiner ([f7e7ebf](https://github.com/shunkakinoki/shunkakinoki/commit/f7e7ebfecae937662218c1b8f2fb0a1591b86e8a))
-* 🎸 ini secrets gha ([bd661b0](https://github.com/shunkakinoki/shunkakinoki/commit/bd661b09752270ac8d6973af810831b4b2f15c1b))
-* 🎸 ini semantic release rust ([0de9582](https://github.com/shunkakinoki/shunkakinoki/commit/0de9582e113c55b8f950865c51bee89a52fcc504))
-
+- 🎸 ini dev conatiner ([f7e7ebf](https://github.com/shunkakinoki/shunkakinoki/commit/f7e7ebfecae937662218c1b8f2fb0a1591b86e8a))
+- 🎸 ini secrets gha ([bd661b0](https://github.com/shunkakinoki/shunkakinoki/commit/bd661b09752270ac8d6973af810831b4b2f15c1b))
+- 🎸 ini semantic release rust ([0de9582](https://github.com/shunkakinoki/shunkakinoki/commit/0de9582e113c55b8f950865c51bee89a52fcc504))
 
 ### Performance Improvements
 
-* ⚡️ acc ([af22072](https://github.com/shunkakinoki/shunkakinoki/commit/af22072d54bbea34c067150c04493f30b4cfd02f))
-* ⚡️ access ([1520108](https://github.com/shunkakinoki/shunkakinoki/commit/15201088dcabadf84e7ba1ba3932a925b8e56c5f))
-* ⚡️ codespaces ([92f6674](https://github.com/shunkakinoki/shunkakinoki/commit/92f66746f9f94770c310e7095d93320ff08bd4e6))
-* ⚡️ ghha ([f9348a5](https://github.com/shunkakinoki/shunkakinoki/commit/f9348a527a52f64d5c35cc54524abb25ddca7cb9))
-* ⚡️ ini cache release ([854a21c](https://github.com/shunkakinoki/shunkakinoki/commit/854a21cc8ba8301254abfec57b075eed7c9b8c28))
-* ⚡️ ini release gha ([8891b9e](https://github.com/shunkakinoki/shunkakinoki/commit/8891b9e6b9c84171f1750eb72cb52460a782542d))
-* ⚡️ release ([235bc94](https://github.com/shunkakinoki/shunkakinoki/commit/235bc94909b74323235e33d404a363f53b850667))
+- ⚡️ acc ([af22072](https://github.com/shunkakinoki/shunkakinoki/commit/af22072d54bbea34c067150c04493f30b4cfd02f))
+- ⚡️ access ([1520108](https://github.com/shunkakinoki/shunkakinoki/commit/15201088dcabadf84e7ba1ba3932a925b8e56c5f))
+- ⚡️ codespaces ([92f6674](https://github.com/shunkakinoki/shunkakinoki/commit/92f66746f9f94770c310e7095d93320ff08bd4e6))
+- ⚡️ ghha ([f9348a5](https://github.com/shunkakinoki/shunkakinoki/commit/f9348a527a52f64d5c35cc54524abb25ddca7cb9))
+- ⚡️ ini cache release ([854a21c](https://github.com/shunkakinoki/shunkakinoki/commit/854a21cc8ba8301254abfec57b075eed7c9b8c28))
+- ⚡️ ini release gha ([8891b9e](https://github.com/shunkakinoki/shunkakinoki/commit/8891b9e6b9c84171f1750eb72cb52460a782542d))
+- ⚡️ release ([235bc94](https://github.com/shunkakinoki/shunkakinoki/commit/235bc94909b74323235e33d404a363f53b850667))
 
 ## [4.27.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.27.0...v4.27.1) (2020-10-13)
 

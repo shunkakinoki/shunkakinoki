@@ -1,3 +1,9 @@
+# [4.29.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.28.1...v4.29.0) (2020-10-19)
+
+### Features
+
+- 🎸 ini pioneer repo ([4a7666e](https://github.com/shunkakinoki/shunkakinoki/commit/4a7666ecb248ba6a977bd0aa5e9638c84b96edfe))
+
 ## [4.28.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.28.0...v4.28.1) (2020-10-14)
 
 ### Performance Improvements

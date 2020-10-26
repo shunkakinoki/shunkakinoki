@@ -1,3 +1,11 @@
+## [4.29.3](https://github.com/shunkakinoki/shunkakinoki/compare/v4.29.2...v4.29.3) (2020-10-26)
+
+### Performance Improvements
+
+- ⚡️ ini frontier dir ([bb86019](https://github.com/shunkakinoki/shunkakinoki/commit/bb860193d7dd23ac39bcf1dbfecf6ca83f304f1b))
+- ⚡️ ini weekly pioneer ([29b7c99](https://github.com/shunkakinoki/shunkakinoki/commit/29b7c99d19fc49a87ef2a9defd458f61b5abd55f))
+- ⚡️ refactor pioneer gitbook ([d61b723](https://github.com/shunkakinoki/shunkakinoki/commit/d61b723bc6820b036609dfd5e904035cc95c3e07))
+
 ## [4.29.2](https://github.com/shunkakinoki/shunkakinoki/compare/v4.29.1...v4.29.2) (2020-10-26)
 
 ### Performance Improvements

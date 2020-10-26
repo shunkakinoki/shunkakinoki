@@ -1,3 +1,9 @@
+## [4.29.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.29.0...v4.29.1) (2020-10-26)
+
+### Performance Improvements
+
+- ⚡️ ini weekly feedback ([15dd997](https://github.com/shunkakinoki/shunkakinoki/commit/15dd997f8941b94103445636744e07abcd513d2f))
+
 # [4.29.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.28.1...v4.29.0) (2020-10-19)
 
 ### Features

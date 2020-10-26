@@ -1,15 +1,23 @@
 ‌# My pioneer journal​
 
+## My Life Misson
+
+* My Life Mission [Mission](mission/README.md)
+
 ## Weekly Updates
 
 * Weekly feedback [Frontier](frontier/README.md)
-    * [Some child page](page1/page1-1.md)
-    * [Some other child page](part1/page1-2.md)
+    * [Week 9](frontier/09.md)
+    * [Week 10](frontier/10.md)
+    * [Week 11](frontier/11.md)
 
-* [Second page's title](page2/README.md)
-    * [Some child page](page2/page2-1.md)
-    * [Some other child page](part2/page2-2.md)
+* Weekly updates [Pioneer](week/README.md)
+    * [Week 1](week/01.md)
+    * [Week 2](week/02.md)
+    * [Week 3](week/03.md)
 
-## A second-page group​
+## Applications
 
-* [Yet another page](another-page.md)
+* Pioneer Text Application [Text](pioneer/README.md)
+* Pioneer Video Application[Video](pioneer/README.md)
+* Y Combinator (FAILED) Application [YC](ycombinator/README.md)

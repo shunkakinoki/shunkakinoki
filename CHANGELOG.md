@@ -1,3 +1,9 @@
+## [4.29.2](https://github.com/shunkakinoki/shunkakinoki/compare/v4.29.1...v4.29.2) (2020-10-26)
+
+### Performance Improvements
+
+- ⚡️ ini pioneer gitbook ([1b1c154](https://github.com/shunkakinoki/shunkakinoki/commit/1b1c1548478e0a21aad335b91c5eb64fa3e50b60))
+
 ## [4.29.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.29.0...v4.29.1) (2020-10-26)
 
 ### Performance Improvements

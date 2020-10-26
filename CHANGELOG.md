@@ -1,3 +1,17 @@
+# [4.30.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.29.3...v4.30.0) (2020-10-26)
+
+### Features
+
+- 🎸 refactor pioneer week ([8207003](https://github.com/shunkakinoki/shunkakinoki/commit/82070035ad5388e63e151ed4e4d7756830e7a130))
+
+### Performance Improvements
+
+- ⚡️ ini frontier week ([92d4c0e](https://github.com/shunkakinoki/shunkakinoki/commit/92d4c0ed16712e37fc7139192c72b8c2de3e7637))
+- ⚡️ ini pioneer week ([7a4a808](https://github.com/shunkakinoki/shunkakinoki/commit/7a4a8084b56e37f383ff4cc3f47a299e3283bbf6))
+- ⚡️ refactor pioneer gitbook ([7806874](https://github.com/shunkakinoki/shunkakinoki/commit/78068742adc40d3cafe225245cb3db61aaa0f2ba))
+- ⚡️ refactor pioneer gitbook ([17e859f](https://github.com/shunkakinoki/shunkakinoki/commit/17e859f1653232812dd33a86cec59a7ba97346c6))
+- ⚡️ refactor sus week ([fa31e7d](https://github.com/shunkakinoki/shunkakinoki/commit/fa31e7de565920775245c9bbf595058921619846))
+
 ## [4.29.3](https://github.com/shunkakinoki/shunkakinoki/compare/v4.29.2...v4.29.3) (2020-10-26)
 
 ### Performance Improvements

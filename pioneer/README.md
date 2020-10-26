@@ -1,14 +1,3 @@
----
-home: true
-heroImage: home.png
-actionText: Get Started →
-actionLink: /mission/
-features:
-  - title: INVENT
-    details: Invent a product / service that is truly galaxy-shattering
-  - title: INITIATE
-    details: Initiate a chain reaction of infatuation in the human society
-  - title: DO GOOD
-    details: Do what is truly right in the perspective of the greater good.
-footer: MIT Licensed | Copyright © 2020-present Sentrei, Inc.
----
+# Welcome to my pioneer journal!
+
+This journal contains every record on my journey towards obliterating the galaxy 🚀🚀🚀

@@ -1,3 +1,10 @@
+## [4.30.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.30.0...v4.30.1) (2020-11-02)
+
+### Performance Improvements
+
+- ⚡️ ini 23 frontier ([5ede1d4](https://github.com/shunkakinoki/shunkakinoki/commit/5ede1d442246ed80f5c7760cd238990e17e571ae))
+- ⚡️ ini week update ([4cb4144](https://github.com/shunkakinoki/shunkakinoki/commit/4cb414476aaf0ee83a0a8e94a3ce7224b94326fb))
+
 # [4.30.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.29.3...v4.30.0) (2020-10-26)
 
 ### Features

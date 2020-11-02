@@ -1,3 +1,9 @@
+## [4.30.2](https://github.com/shunkakinoki/shunkakinoki/compare/v4.30.1...v4.30.2) (2020-11-02)
+
+### Performance Improvements
+
+- ⚡️ ini weekly update ([506816d](https://github.com/shunkakinoki/shunkakinoki/commit/506816d62b3abe7222e9def6744f6cb5813a3063))
+
 ## [4.30.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.30.0...v4.30.1) (2020-11-02)
 
 ### Performance Improvements

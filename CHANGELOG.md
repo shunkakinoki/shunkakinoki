@@ -1,3 +1,12 @@
+## [4.30.3](https://github.com/shunkakinoki/shunkakinoki/compare/v4.30.2...v4.30.3) (2020-12-30)
+
+### Performance Improvements
+
+- ⚡️ chore ([f2f3579](https://github.com/shunkakinoki/shunkakinoki/commit/f2f3579aaa626aa39049171cb5aa4e9ff278cde1))
+- ⚡️ ini week 27 ([81c7527](https://github.com/shunkakinoki/shunkakinoki/commit/81c75272d6048b42824ec02e9c6f1caca20f2b82))
+- ⚡️ ini week 28 ([ff8438a](https://github.com/shunkakinoki/shunkakinoki/commit/ff8438ad8fa6ddaa83b385a09d3cbbbdc5ec3e71))
+- ⚡️ ini week update ([8541b57](https://github.com/shunkakinoki/shunkakinoki/commit/8541b573b32d75d454146d3eef9a8c7213127d58))
+
 ## [4.30.2](https://github.com/shunkakinoki/shunkakinoki/compare/v4.30.1...v4.30.2) (2020-11-02)
 
 ### Performance Improvements

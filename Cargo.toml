@@ -20,4 +20,3 @@ path = "shunkakinoki/tests/main.rs"
 [dependencies]
 
 [dev-dependencies]
-semantic-release-rust = "1.0.0-alpha.7"

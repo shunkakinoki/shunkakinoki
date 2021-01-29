@@ -19,10 +19,7 @@ path = "shunkakinoki/tests/main.rs"
 
 [dependencies]
 clap = "2.33.3"
-self_update = "0.23.0"
 webbrowser = "0.5.5"
 
 [dev-dependencies]
-cargo-update = "5.0.0"
 semantic-release-rust = "1.0.0-alpha.7"
-version-sync = "0.9.1"

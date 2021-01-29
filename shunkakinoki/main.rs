@@ -2,8 +2,6 @@ use clap::{crate_version, App, AppSettings, Arg, SubCommand};
 use std::process::Command;
 use webbrowser;
 
-mod update;
-
 fn main() {
     let matches = App::new("shunkakinoki")
         .version(crate_version!())
@@ -75,11 +73,6 @@ fn main() {
         ("pitch", Some(_)) => if webbrowser::open("https://pitch.shunkakinoki.com").is_ok() {},
         ("notebook", Some(_)) => {
             if webbrowser::open("https://notebook.shunkakinoki.com").is_ok() {}
-        }
-        ("update", Some(update_matches)) => {
-            if update_matches.is_present("list") && update::list().is_ok() {
-            } else if update::update().is_ok() {
-            }
         }
         ("github", Some(github_matches)) => match github_matches.subcommand() {
             ("shunkakinoki", Some(shunkakinoki_matches)) => {

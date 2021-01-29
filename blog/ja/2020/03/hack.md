@@ -2,8 +2,6 @@
 title: 「人生」をハックする上で、今とるべき戦略とは
 author: Shun Kakinoki
 date: 2020-03-04
-slug: "life-success-strategy"
-hero: ./images/hero.jpg
 excerpt: 次の時代の流れとして、世界経済の中で偏在的にリソースが恵まれるであろう機会を手にするために
 ---
 

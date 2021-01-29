@@ -18,8 +18,5 @@ name = "shunkakinoki"
 path = "shunkakinoki/tests/main.rs"
 
 [dependencies]
-clap = "2.33.3"
-webbrowser = "0.5.5"
 
 [dev-dependencies]
-semantic-release-rust = "1.0.0-alpha.7"

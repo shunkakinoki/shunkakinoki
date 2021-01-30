@@ -1,3 +1,23 @@
+# [4.31.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.30.3...v4.31.0) (2021-01-30)
+
+
+### Features
+
+* 🎸 ini rust workflow ([30f74e5](https://github.com/shunkakinoki/shunkakinoki/commit/30f74e5c09eeaf8baaf84fc119e3b0b1668223af))
+* 🎸 migrate to blog ([3f26f05](https://github.com/shunkakinoki/shunkakinoki/commit/3f26f05d46a0525eef2b7376291589921a877b83))
+* 🎸 reset clap cli ([3d8adde](https://github.com/shunkakinoki/shunkakinoki/commit/3d8adde59048b7cc11aad944f8d7a3dd869459fc))
+* 🎸 upgrade with cargo ([0f2f7fc](https://github.com/shunkakinoki/shunkakinoki/commit/0f2f7fcc2beef062cca5149dcd20f667eaf9927a))
+
+
+### Performance Improvements
+
+* ⚡️ cargo run build ([931cd73](https://github.com/shunkakinoki/shunkakinoki/commit/931cd730f86d6dfddff1b5087f620944db6a9040))
+* ⚡️ cargo run update ([bb92f9a](https://github.com/shunkakinoki/shunkakinoki/commit/bb92f9a90ab5177441ed3b050f936256658fe90d))
+* ⚡️ fix rust bug ([dbce9b0](https://github.com/shunkakinoki/shunkakinoki/commit/dbce9b0a8b06768486b0dd4438224ffbdd28f1e1))
+* ⚡️ ini empty test ([9ee5465](https://github.com/shunkakinoki/shunkakinoki/commit/9ee5465cdd672419b145fa36b60c514d64b45434))
+* ⚡️ remove semantic release for rust lang ([759e43d](https://github.com/shunkakinoki/shunkakinoki/commit/759e43d5de941b6b7f8dfc756c11dae0389a8a8d))
+* ⚡️ update editor config ([95a782d](https://github.com/shunkakinoki/shunkakinoki/commit/95a782d1eebfaf5b2a1877db45a990425f8f9d3b))
+
 ## [4.30.3](https://github.com/shunkakinoki/shunkakinoki/compare/v4.30.2...v4.30.3) (2020-12-30)
 
 ### Performance Improvements

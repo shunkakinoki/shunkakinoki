@@ -1,3 +1,10 @@
+## [4.31.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.31.0...v4.31.1) (2021-01-30)
+
+### Performance Improvements
+
+- ⚡️ ini exec fix ([9bbd813](https://github.com/shunkakinoki/shunkakinoki/commit/9bbd81395dbcaffae24db31d4204ab4d0f0df93f))
+- ⚡️ ini ja summary ([ef03a6c](https://github.com/shunkakinoki/shunkakinoki/commit/ef03a6cfb5624e605a9f3d84835cf6f0ff7aced7))
+
 # [4.31.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.30.3...v4.31.0) (2021-01-30)
 
 ### Features

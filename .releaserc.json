@@ -21,6 +21,12 @@
         "tarballDir": "dist"
       }
     ],
+    [
+      "@semantic-release/exec",
+      {
+        "prepareCmd": "yarn run fix"
+      }
+    ],
     "@semantic-release/github",
     [
       "@semantic-release/git",

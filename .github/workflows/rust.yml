@@ -9,15 +9,6 @@ jobs:
         with:
           toolchain: stable
           override: true
-      - uses: actions/cache@v2
-        with:
-          path: |
-            ~/.cargo/registry
-            ~/.cargo/git
-            target
-          key: rust-cargo-${{ hashFiles('**/Cargo.lock') }}
-      - run: |
-          rustup component add clippy
       - uses: actions-rs/cargo@v1
         with:
           command: update

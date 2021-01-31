@@ -1,3 +1,9 @@
+# [4.32.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.31.1...v4.32.0) (2021-01-31)
+
+### Features
+
+- 🎸 complete refactor blog ([df23643](https://github.com/shunkakinoki/shunkakinoki/commit/df23643c962dff752596aeadccfdbb37777aba8e))
+
 ## [4.31.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.31.0...v4.31.1) (2021-01-30)
 
 ### Performance Improvements

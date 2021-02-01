@@ -1,3 +1,13 @@
+# [4.33.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.32.0...v4.33.0) (2021-02-01)
+
+### Features
+
+- 🎸 complete remove journal psycho wiki ([8d2ecde](https://github.com/shunkakinoki/shunkakinoki/commit/8d2ecde24300e857b25b49c11f03a46a84950b68))
+- 🎸 ini credits md ([d64f04f](https://github.com/shunkakinoki/shunkakinoki/commit/d64f04fd052d1753d00d2892544235d60d598210))
+- 🎸 ini mission md ([a21e0b3](https://github.com/shunkakinoki/shunkakinoki/commit/a21e0b36145e951d24ae42730e2e533a80aca6f0))
+- 🎸 ini value md ([4edf04e](https://github.com/shunkakinoki/shunkakinoki/commit/4edf04e9e2c823a33dae43898efd4000106cc05d))
+- 🎸 migrate shunkakinoki src ([91cefdf](https://github.com/shunkakinoki/shunkakinoki/commit/91cefdf2ada0a02db21cdc2e02e798053592e63f))
+
 # [4.32.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.31.1...v4.32.0) (2021-01-31)
 
 ### Features

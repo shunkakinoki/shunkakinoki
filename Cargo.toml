@@ -7,15 +7,15 @@ license = "MIT"
 homepage = "https://github.com/shunkakinoki/shunkakinoki"
 description = "shunkakinoki"
 autobins = false
-include = ["shunkakinoki/**/*", "Cargo.toml"]
+include = ["src/**/*", "Cargo.toml"]
 
 [[bin]]
 name = "shunkakinoki"
-path = "shunkakinoki/main.rs"
+path = "src/main.rs"
 
 [[test]]
 name = "shunkakinoki"
-path = "shunkakinoki/tests/main.rs"
+path = "src/tests/main.rs"
 
 [dependencies]
 

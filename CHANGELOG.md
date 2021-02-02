@@ -1,3 +1,10 @@
+# [4.34.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.33.0...v4.34.0) (2021-02-02)
+
+### Features
+
+- 🎸 ini about md ([99a17cd](https://github.com/shunkakinoki/shunkakinoki/commit/99a17cd5652bd67908038d34d13360204d44065b))
+- 🎸 ini about page ([23ee154](https://github.com/shunkakinoki/shunkakinoki/commit/23ee154baadd77dc062358e725b6113b766e207f))
+
 # [4.33.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.32.0...v4.33.0) (2021-02-01)
 
 ### Features

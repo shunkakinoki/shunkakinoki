@@ -1,3 +1,18 @@
+# [4.35.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.34.0...v4.35.0) (2021-02-10)
+
+### Bug Fixes
+
+- 🐛 remove author 300 ([37415c8](https://github.com/shunkakinoki/shunkakinoki/commit/37415c85ab2432dc901f622ee3a6b4478100edee))
+
+### Features
+
+- 🎸 feat seoul-sf draft ([08a9589](https://github.com/shunkakinoki/shunkakinoki/commit/08a9589abbc8e5965fdc2080b8987c4ab2315b54))
+- 🎸 ini clear blog ([b641bf6](https://github.com/shunkakinoki/shunkakinoki/commit/b641bf600cc20d178e72cdc9639a47a73a3ecdce))
+
+### Performance Improvements
+
+- ⚡️ ini values love ([d0123ac](https://github.com/shunkakinoki/shunkakinoki/commit/d0123ac715f053eb24494d409edd899a5ff3de6e))
+
 # [4.34.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.33.0...v4.34.0) (2021-02-02)
 
 ### Features

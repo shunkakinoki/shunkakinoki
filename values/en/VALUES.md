@@ -41,6 +41,7 @@ Love is what will drive me forward when things are tough.
 Love is what will forever be a reminder that I only exist interwined under the web of love.
 
 I believe it doesn't have to be mutual, and that it can serve to be one-way.
+I am already interwinded under infinite webs of love among people.
+It is necessary to give back through love, and love only.
 
-
-I will not hope for anything in return of giving love.
+I will not expect nor hope for anything in return of giving love.

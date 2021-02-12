@@ -1,3 +1,13 @@
+# [4.36.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.35.2...v4.36.0) (2021-02-12)
+
+### Features
+
+- 🎸 ini cause section ([d7c3646](https://github.com/shunkakinoki/shunkakinoki/commit/d7c3646e0d6c64d67077bdb2ab9ec05ba1c099cc))
+
+### Performance Improvements
+
+- ⚡️ remove credits page ([f36fe68](https://github.com/shunkakinoki/shunkakinoki/commit/f36fe68f45df0b878b2cbef72e977a2504f46ca5))
+
 ## [4.35.2](https://github.com/shunkakinoki/shunkakinoki/compare/v4.35.1...v4.35.2) (2021-02-12)
 
 ### Performance Improvements

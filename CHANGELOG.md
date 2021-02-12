@@ -1,3 +1,9 @@
+## [4.35.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.35.0...v4.35.1) (2021-02-12)
+
+### Performance Improvements
+
+- ⚡️ ini credits md ([2da4ae0](https://github.com/shunkakinoki/shunkakinoki/commit/2da4ae08d0ddda0e89ef3ac88689b3e4a2ac3bb9))
+
 # [4.35.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.34.0...v4.35.0) (2021-02-10)
 
 ### Bug Fixes

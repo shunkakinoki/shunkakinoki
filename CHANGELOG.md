@@ -1,3 +1,9 @@
+## [4.35.2](https://github.com/shunkakinoki/shunkakinoki/compare/v4.35.1...v4.35.2) (2021-02-12)
+
+### Performance Improvements
+
+- ⚡️ ini week 29 ([b930561](https://github.com/shunkakinoki/shunkakinoki/commit/b9305618fba5bcfab7d7eecf7614bcf962630338))
+
 ## [4.35.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.35.0...v4.35.1) (2021-02-12)
 
 ### Performance Improvements

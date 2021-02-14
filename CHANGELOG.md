@@ -1,3 +1,9 @@
+# [4.37.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.36.0...v4.37.0) (2021-02-14)
+
+### Features
+
+- ini cause poem ([cfac1ca](https://github.com/shunkakinoki/shunkakinoki/commit/cfac1cae777967b84bcb252e5980a3a259058ef0))
+
 # [4.36.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.35.2...v4.36.0) (2021-02-12)
 
 ### Features

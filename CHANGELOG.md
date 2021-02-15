@@ -1,3 +1,10 @@
+## [4.37.2](https://github.com/shunkakinoki/shunkakinoki/compare/v4.37.1...v4.37.2) (2021-02-15)
+
+### Performance Improvements
+
+- ini divider about ([303c27a](https://github.com/shunkakinoki/shunkakinoki/commit/303c27a49d90621b953b46d2efa4cdf29e54dbb7))
+- refactor blog summary ([cab5e9f](https://github.com/shunkakinoki/shunkakinoki/commit/cab5e9f71fc8cca4089c2c75f53587c2ffb7fce6))
+
 ## [4.37.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.37.0...v4.37.1) (2021-02-15)
 
 ### Performance Improvements

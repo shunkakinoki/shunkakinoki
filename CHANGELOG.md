@@ -1,3 +1,10 @@
+## [4.37.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.37.0...v4.37.1) (2021-02-15)
+
+### Performance Improvements
+
+- ini i18n about ([9334205](https://github.com/shunkakinoki/shunkakinoki/commit/9334205204adb5d8537b4af0455956e98618f8f4))
+- ini i18n cause ([e38acac](https://github.com/shunkakinoki/shunkakinoki/commit/e38acacc6245f3315a66a2c5f09f26e88723b2f0))
+
 # [4.37.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.36.0...v4.37.0) (2021-02-14)
 
 ### Features

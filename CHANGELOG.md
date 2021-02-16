@@ -1,3 +1,9 @@
+# [4.39.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.38.1...v4.39.0) (2021-02-16)
+
+### Features
+
+- ini pitch dir ([98adbe7](https://github.com/shunkakinoki/shunkakinoki/commit/98adbe7ef4f60ac4d970ae2145de72bbb1d9a9d6))
+
 ## [4.38.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.38.0...v4.38.1) (2021-02-16)
 
 ### Performance Improvements

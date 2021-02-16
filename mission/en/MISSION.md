@@ -12,7 +12,9 @@ This will come through products, delivered through startups.
 
 Having growing up in Cupertino City, where the HQ of Apple is located at, I literally witnessed before my very eyes how a great product could change everything.
 
-As an avid believer of [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14), I heavily emphasize the importance of what to pursue during my short time on this planet.
+As an avid believer of [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14),
+
+I heavily emphasize the importance of what to pursue during my short time on this planet.
 
 ### **Essentially everything may be meaningless, but shockwaves are engraved in people's hearts forever**
 

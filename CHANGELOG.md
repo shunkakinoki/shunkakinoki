@@ -1,3 +1,13 @@
+# [4.38.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.37.3...v4.38.0) (2021-02-16)
+
+### Features
+
+- ini life mission ([b5b1f02](https://github.com/shunkakinoki/shunkakinoki/commit/b5b1f02a46330f3245ef71cf466d6160b3f5b834))
+
+### Performance Improvements
+
+- ini i18n mission ([26433d2](https://github.com/shunkakinoki/shunkakinoki/commit/26433d2506ced19799106f2247893b7c3af2ed4e))
+
 ## [4.37.3](https://github.com/shunkakinoki/shunkakinoki/compare/v4.37.2...v4.37.3) (2021-02-16)
 
 ### Performance Improvements

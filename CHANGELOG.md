@@ -1,3 +1,9 @@
+## [4.37.3](https://github.com/shunkakinoki/shunkakinoki/compare/v4.37.2...v4.37.3) (2021-02-16)
+
+### Performance Improvements
+
+- refactor core md ([69f4038](https://github.com/shunkakinoki/shunkakinoki/commit/69f4038a2da78e63604b5b5e65bc05a38b2f2940))
+
 ## [4.37.2](https://github.com/shunkakinoki/shunkakinoki/compare/v4.37.1...v4.37.2) (2021-02-15)
 
 ### Performance Improvements

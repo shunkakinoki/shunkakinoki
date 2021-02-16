@@ -10,7 +10,7 @@ fn main() {
         .get_matches();
 
     match matches.subcommand() {
-        Some(("home", _)) => webbrowser::open("https://blog.shunkakinoki.com").is_ok(),
+        Some(("home", _)) => webbrowser::open("https://shunkakinoki.com").is_ok(),
         None => println!("No subcommand was used"),
         _ => unreachable!(),
     }

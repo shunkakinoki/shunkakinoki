@@ -1,3 +1,14 @@
+# [4.40.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.39.0...v4.40.0) (2021-02-17)
+
+### Features
+
+- ini main rs ([68af502](https://github.com/shunkakinoki/shunkakinoki/commit/68af5028b710758be1a60e889071fec2840dfd27))
+
+### Performance Improvements
+
+- ini open wrapper ([5eb06cf](https://github.com/shunkakinoki/shunkakinoki/commit/5eb06cf0ce22b8b2179636419b3e67376d636564))
+- inii home subcommand ([66813ad](https://github.com/shunkakinoki/shunkakinoki/commit/66813ad12a7cb910b3099f877808d5d538cede26))
+
 # [4.39.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.38.1...v4.39.0) (2021-02-16)
 
 ### Features

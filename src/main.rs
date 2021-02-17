@@ -1,5 +1,5 @@
 use clap::{crate_version, App};
-use webbrowser;
+extern crate open;
 
 fn main() {
     let matches = App::new("shunkakinoki")
@@ -7,10 +7,26 @@ fn main() {
         .version(crate_version!())
         .author("Shun Kakinoki <shunkakinoki@gmail.com>")
         .subcommand(App::new("home").about("Opens shunkakinoki.com"))
+        .subcommand(App::new("cause").about("Opens cause"))
+        .subcommand(App::new("mission").about("Opens mission"))
+        .subcommand(App::new("values").about("Opens values"))
         .get_matches();
 
+    const WEBSITE: &str = "https://shunkakinoki.com";
+
     match matches.subcommand() {
-        Some(("home", _)) => webbrowser::open("https://shunkakinoki.com").is_ok(),
+        Some(("home", _)) => {
+            open::that(WEBSITE).unwrap();
+        }
+        Some(("cause", _)) => {
+            open::that(format!("{}/cause", WEBSITE)).unwrap();
+        }
+        Some(("mission", _)) => {
+            open::that(format!("{}/mission", WEBSITE)).unwrap();
+        }
+        Some(("values", _)) => {
+            open::that(format!("{}/values", WEBSITE)).unwrap();
+        }
         None => println!("No subcommand was used"),
         _ => unreachable!(),
     }

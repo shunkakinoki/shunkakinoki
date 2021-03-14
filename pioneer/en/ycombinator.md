@@ -124,35 +124,33 @@ https://sentrei.com
 
 #### If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording.
 
-https://sentrei.com/demo
-
 #### Describe what your company does in 50 characters or less.
 
 The Edge Serverless Backend
 
 #### What is your company going to make? Please describe your product and what it does or will do.
 
-The next-generation edge backend infrastructure as a service. (Think of it as like a Vercel for Backend)
-We enable developers to develop apps with a 10x better developer experience while offering the bleeding edge technology.
-The product will consist of three main parts, a serverless SQL database, edge endpoints, and edge functions.
+The next-generation edge backend infrastructure as a service. (Think of it as like Vercel for Backend)
+We enable developers to develop apps with a 10x better backend developer experience while offering the bleeding edge technology.
+The product will consist of three main parts, a distributed SQL database, productive development flow, and edge functions.
 
-1. Serverless SQL Database
+1. Distributed SQL Database
 
-We are planning to offer a serverless Postgres serverless database.
+We are planning to offer a distributed serverless Postgres database.
 This will free developers from ever worrying about scalability while harnessing the power of SQL.
 We will drive the adoption of serverless SQL databases.
 
-2. Edge endpoints
+2. Productive Development Workflow
 
-We will offer edge endpoints in 200+ locations around the world for maximum performance.
-Developers will be able to instantly setup endpoints, such as a GraphQL API with edge caching.
-We will accelerate the transition to the edge.
+We provide a seamless backend workflow from local development to production.
+Schema changes will instantly setup endpoints, such as a GraphQL API with edge caching.
+Migrations will be applied to every commit to the pull request, so developers can enjoy the latest changes without hassle.
 
 3. Edge functions
 
-We will offer custom edge functions with zero-cold starts.
-Developers will be able to write custom logic with a delightful developer experience.
-We will delight every developer.
+We will offer edge functions in 200+ locations around the world for maximum performance, while providing zero cold starts.
+Developers will be able to write custom logic directly on the edge, leading to a delightful developer experience.
+We will accelerate the transition to the edge.
 
 #### Where do you live now, and where would the company be based after YC?
 
@@ -212,7 +210,7 @@ Yes.
 
 I pivoted because I felt that I couldn't believe in the product any longer.
 I learnt that asking customers is super important.
-Every action, move, iterations should be geared towards delivering greater value to the end user.
+Every iteration should be geared towards delivering greater value to the end user.
 
 #### If you have already participated or committed to participate in an incubator, "accelerator" or "pre-accelerator" program, please tell us about it.
 
@@ -229,8 +227,8 @@ I know people want this because I've encountered my friends and tweets expressin
 #### What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
 
 It's new because it's a backend service tailored for the edge.
-It offers a better performance while providing a 10x developer experience to ehe end user.
-People resort to firebase and other existing backend providers.
+It offers a better performance while providing a 10x backend developer experience,
+People resort to firebase and other existing infrastructure providers.
 
 #### Who are your competitors, and who might become competitors? Who do you fear most?
 
@@ -240,34 +238,31 @@ Current competitors
 - Nhost (https://nhost.io)
 - Supabase (https://supabase.io)
 
-I fear Cloudflare starting their own backend offering that is tailored for the edge.
+I fear Cloudflare starting their own backend offering.
 
 #### What do you understand about your business that other companies in it just don't get?
 
 Backend developer experience is very poor in 2021.
-Distributed serverless SQL database will increasingly adopted in the near future.
-Edge on serverless is going to be the dominant way to build custom logic at scale in he next 10 years.
+Distributed SQL database will increasingly adopted in the near future.
+Edge on serverless is going to be the dominant way to build backend at scale in he next 10 years.
 
 #### How do or will you make money? How much could you make?
 
 We offer three pricing plans.
 
 Free for personal use.
-Per-seat subscription model for individuals and startups.
+Per-seat subscription model ($30 per month) for individuals and small teams.
 Enterprise offering for SMBs and large enterprise customers.
 
-We could be the Netlify / Vercel for backend.
-Most of the profit will come from enterprise offerings.
-Gross margins will likely increase as serverless costs decrease as time progresses.
-
-
+We are aiming to be the Netlify / Vercel for backend.
+Most of the profit will be derived from enterprise offerings.
+Gross margins will likely increase over time due to economics of scale.
 
 #### How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?
 
 Planning to onboard users through waitlist signups.
 Then launch on PH, HN, Reddit initially.
 Also, Github will also be a main source of inflow through or OSS work.
-
 
 ### EQUITY
 
@@ -337,7 +332,7 @@ I want to prove that even Japanese founders can create great software products b
 
 #### What convinced you to apply to Y Combinator? Did someone encourage you to apply?
 
-The moment I started a startup, I knew at least I had to try to get in.
+The moment I started a startup, I had to try to get in.
 In a sense, it's like a dream for aspiring founders all around the world.
 No.
 

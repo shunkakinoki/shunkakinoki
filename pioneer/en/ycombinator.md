@@ -203,7 +203,6 @@ No
 
 #### Anything else you would like us to know regarding your revenue or growth rate?
 
-
 #### If you are applying with the same idea, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?
 
 Yes.

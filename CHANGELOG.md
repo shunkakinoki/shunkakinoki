@@ -1,3 +1,9 @@
+# [4.41.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.40.0...v4.41.0) (2021-03-16)
+
+### Features
+
+- restart ([6faa543](https://github.com/shunkakinoki/shunkakinoki/commit/6faa5436c0de8b75337bb950727527128fbc63c9))
+
 # [4.40.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.39.0...v4.40.0) (2021-02-17)
 
 ### Features

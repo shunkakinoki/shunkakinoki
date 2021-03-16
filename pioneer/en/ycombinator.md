@@ -12,7 +12,7 @@ Shun Kakinoki
 
 #### Age
 
-21
+22
 
 #### Gender
 
@@ -20,7 +20,7 @@ Male
 
 #### City where you currently live
 
-Tokyo
+San Francisco
 
 #### State / Province
 
@@ -50,7 +50,7 @@ Nikkei, Full Stack Software Engineer Intern, Apr, 2019 - Mar, 2020
 
 #### Personal website
 
-https://www.shunkakinoki.com
+https://shunkakinoki.com
 
 #### Github URL
 
@@ -101,8 +101,8 @@ No
 #### Do you have any commitments in the future and if so what?
 
 My life mission is to Obliterate the Galaxy 🚀
-Steve Jobs once said that he wanted to "put a dent in the galaxy".
-I want to create great products that are galaxy shattering, and wake up everyday in the morning striving to do so.
+I want to be part of creating great products that are so good that they will obliterate the galaxy shattering,
+and wake up everyday in the morning striving to do so.
 
 ### CURIOUS
 
@@ -124,35 +124,37 @@ https://sentrei.com
 
 #### If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording.
 
-https://sentrei.com/demo
-
 #### Describe what your company does in 50 characters or less.
 
-Open source, enhanced virtual workspace.
+The Edge Serverless Backend
 
 #### What is your company going to make? Please describe your product and what it does or will do.
 
-Sentrei is a dedicated virtual workspace for remote teams.
-We help people do great work through providing the best user experience for remote teams.
-Fully open-source, see us on https://github.com/sentrei/sentrei
+The next-generation edge backend infrastructure as a service. (Think of it as like Vercel for Backend)
+We enable developers to develop apps with a 10x better backend developer experience while offering the bleeding edge technology.
+The product will consist of three main parts, a distributed SQL database, productive development flow, and edge functions.
 
-Key Features
+1. Distributed SQL Database
 
-1. Enhanced Video UI/UX.
+We are planning to offer a distributed serverless Postgres database.
+This will free developers from ever worrying about scalability while harnessing the power of SQL.
+We will drive the adoption of serverless SQL databases.
 
-The video chat UI will be optimized depending on the use-case. No same blatant set of controls each time. We aim to deliver the best possible user experience through providing dedicated features depending on the purpose of each room.
+2. Productive Development Workflow
 
-2. Fun.
+We provide a seamless backend workflow from local development to production.
+Schema changes will instantly setup endpoints, such as a GraphQL API with edge caching.
+Migrations will be applied to every commit to the pull request, so developers can enjoy the latest changes without hassle.
 
-Compete with your teammates through a dedicated leaderboard, and occasionally poke at others if you are feeling like taking a break. Hop into "bonding" rooms to recreate the feeling of spontaneous conversations online.
+3. Edge functions
 
-3. Seamless.
-
-Enter the same virtual room when you want to get to work (same static link always!!!), and never worry about time-limits, invitations, or passcodes. Everything is minimalistic and kept simple as possible for your team.
+We will offer edge functions in 200+ locations around the world for maximum performance, while providing zero cold starts.
+Developers will be able to write custom logic directly on the edge, leading to a delightful developer experience.
+We will accelerate the transition to the edge.
 
 #### Where do you live now, and where would the company be based after YC?
 
-Tokyo, Japan / Cupertino, U.S.A.
+San Francisco, U.S.A. / Cupertino, U.S.A.
 
 ### CONTACT
 
@@ -163,8 +165,6 @@ Tokyo, Japan / Cupertino, U.S.A.
 ### FOUNDERS
 
 #### Please enter the url of a 1 minute unlisted (not private) YouTube or Youku video introducing the founder(s). This video is an important part of the application. (Follow the Video Guidelines.)
-
-https://youtu.be/hvVKiPQKEt0
 
 #### How many founders are on the team?
 
@@ -180,15 +180,14 @@ Other
 
 #### How far along are you?
 
-Beta Launch.
-I am in the process of refining the product.
-I will keep on making improvements until I've reached a point where I will want to buy my own product.
+Building/Beta Sign-up phase.
+We are in the process of building the beta product.
+Currently aiming for a public avalability by the end of year.
 
 #### How long have each of you been working on this? How much of that has been full-time? Please explain.
 
-From April 2021, full time since then.
-Thankfully, I'm lucky enough to have the blessing to be with my family for now,
-but mom has warned me that I will get kicked out next April.
+Full time since April 2020.
+Currently dedicating ~20 hours per week for freelance work to cover my living costs.
 
 #### Are people using your product?
 
@@ -196,9 +195,7 @@ Yes
 
 #### How many active users or customers do you have? If you have some particularly valuable customers, who are they? If you're building hardware, how many units have you shipped?
 
-About ~10 users during the beta launch.
-Frankly speaking, most of the beta testers are my friends.
-It's hard for me to say we have particularly valuable customers at this point in time.
+None
 
 #### Do you have revenue?
 
@@ -206,11 +203,13 @@ No
 
 #### Anything else you would like us to know regarding your revenue or growth rate?
 
-https://sentrei.com/analytics
-
 #### If you are applying with the same idea, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?
 
-This is my first application.
+Yes.
+
+I pivoted because I felt that I couldn't believe in the product any longer.
+I learnt that asking customers is super important.
+Every iteration should be geared towards delivering greater value to the end user.
 
 #### If you have already participated or committed to participate in an incubator, "accelerator" or "pre-accelerator" program, please tell us about it.
 
@@ -220,68 +219,49 @@ https://pioneer.app (fully remote accelerator) from August, 2020.
 
 #### Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
 
-I was occasionally doing a study session through Zoom with my friends back in March, and it was far from a great experience.
-
-1. Too many steps to get a session going even for the same consistent group of people (links, passcodes, etc...)
-2. You get distracted by keyboard sounds if un-muted, video chat seems unnecessary otherwise.
-3. UI is always the same even for very different purposes.
-
-I believe that the end user experience could be much better if the video chat UI was more optimized for each specific use-case like I encountered.
-
-I have basically no domain expertise in the field of video communications though Twilio would take it care for us.
-
-I know that people need what I'm making through feedback at https://pioneer.app, stories of my friends and their parents complaining in which particular areas current video communication tools lack in, and Jason Calacanis mentioning on his podcast that he had a secondary display that was always on to recreate the office experience remotely.
+Having built two products before with firebase, I came across painful problems in existing database solutions (mainfully firebase)
+I am obsessed with DevOps and serverless technology, but I lack work experience in the field.
+I know people want this because I've encountered my friends and tweets expressing their lack of satisfaction towards current backend services.
 
 #### What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
 
-The new thing about Sentrei is that the UI will drastically change depending on the use-case.
-We believe that we could deliver a much better user experience if each video session is optimized for a particular purpose.
-
-We plan to provide three options each with distinctive video UIs.
-
-1. Bond. - Short conversations & spontaneous chats through a colorful and joyful UI.
-2. Focus. - Always-connected sessions for tele-presence to help you get things done through a zen-like interface.
-3. Work. - Seamless meetings between members for doing synchronous work (basically like Zoom).
-
-I tend to resort to Zoom/Meets/Tandem, and most people do so.
-However, we believe that other unique products will emerge in the long run in this space.
-Just as Snapchat emerged over Instagram, maybe there's a product waiting in the virtual workspace field.
+It's new because it's a backend service tailored for the edge.
+It offers a better performance while providing a 10x backend developer experience,
+People resort to firebase and other existing infrastructure providers.
 
 #### Who are your competitors, and who might become competitors? Who do you fear most?
 
 Current competitors
 
-- Sidekick (https://sidekick.video/)
-- Tandem (https://tandem.chat/)
-- Whereby (https://whereby.com/)
+- Firebase (https://firebase.com)
+- Nhost (https://nhost.io)
+- Supabase (https://supabase.io)
 
-I fear most that Zoom comes out with a Slack-like alternative, equipped with features that make it tailored for teams.
-We do not want to compete with the above, but rather act as a supplement piece for Slack and Zoom.
-Thus, Zoom coming out with a Slack-like alternative video chat tool could be devastating for us.
+I fear Cloudflare starting their own backend offering.
 
 #### What do you understand about your business that other companies in it just don't get?
 
-- Every video chat tool is designed for synchronous & productive communication, yet many people use it for other purposes as well.
-- The UI of a video chat screen should completely be optimized depending on the use-case.
-- A virtual workspace should be a lot more comfortable and fun, not clumsy and stressful.
+Backend developer experience is very poor in 2021.
+Distributed SQL database will increasingly adopted in the near future.
+Edge on serverless is going to be the dominant way to build backend at scale in he next 10 years.
 
 #### How do or will you make money? How much could you make?
 
-We charge \$15/month per user for the pro plan, custom pricing for enterprise plan.
+We offer three pricing plans.
 
-The cost would mostly consist of Twilio video server cost(avg. \$0.003 per participant/min).
-On the assumption that each user spends 3hr per weekday on the platform, that would lead to a cost of \$10 per month.
-That would probably lead to at least 30~40% gross margin.
-If we could create a great product to reach PMF, i.e. 100,000 paying customers, that would be about ~\$3 mil MRR, ~\$30 mil ARR.
-Under the current circumstances of the world, we have a puncher's chance to grow beyond exponentially.
+Free for personal use.
+Per-seat subscription model ($30 per month) for individuals and small teams.
+Enterprise offering for SMBs and large enterprise customers.
 
-We could be the best decision your organization has ever made.
+We are aiming to be the Netlify / Vercel for backend.
+Most of the profit will be derived from enterprise offerings.
+Gross margins will likely increase over time due to economics of scale.
 
 #### How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?
 
-Planning to launch on PH, HN, Reddit initially.
-It's a team-based tool like Notion/Slack, so if the product is great, it likely will grow virally over time.
-If not, it will die.
+Planning to onboard users through waitlist signups.
+Then launch on PH, HN, Reddit initially.
+Also, Github will also be a main source of inflow through or OSS work.
 
 ### EQUITY
 
@@ -311,7 +291,7 @@ Yes
 
 #### How much money does your company have in the bank now?
 
-120
+300
 
 #### How long is your runway?
 
@@ -330,7 +310,7 @@ No.
 #### Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain.
 
 I basically have written all of the code.
-The entirety of the work can be seen at https://github.com/sentrei/sentrei
+The entirety of the open source work can be seen at https://github.com/sentrei/sentrei
 I've gotten some piece of UI advice from my friends, but basically I've worked all alone from the start to now.
 
 #### Is there anything else we should know about your company?
@@ -340,10 +320,6 @@ Nothing in particular.
 ### OTHERS
 
 #### If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
-
-https://pitch.shunkakinoki.com
-https://pitch.shunkakinoki.com/ideas
-https://shunkakinoki.com/ideas
 
 #### Please tell us something surprising or amusing that one of you has discovered.
 
@@ -355,7 +331,7 @@ I want to prove that even Japanese founders can create great software products b
 
 #### What convinced you to apply to Y Combinator? Did someone encourage you to apply?
 
-The moment I started a startup, I knew at least I had to try to get in.
+The moment I started a startup, I had to try to get in.
 In a sense, it's like a dream for aspiring founders all around the world.
 No.
 

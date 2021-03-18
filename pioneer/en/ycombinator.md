@@ -24,27 +24,25 @@ San Francisco
 
 #### State / Province
 
-Tokyo
+California
 
 #### Country
 
-Japan
+USA
 
 ### BACKGROUND
 
 #### Schools, Degrees (including field of study), and Years of Graduation
 
 Keio University (Political Science), 2021
-Keio Shonan Fujisawa High School, 2017
-Keio Shonan Fujisawa Middle School, 2014
-Tsuchihashi Elementary School, 2011
+Keio Shonan Fujisawa Middle & High School, 2017
 Eaton Elementary School, 2009
 
 #### Employers, Position / Titles and Dates
 
 No full-time work experience.
-
 Nikkei, Full Stack Software Engineer Intern, Apr, 2019 - Mar, 2020
+Vaak Inc, AI Engineer August 2019 - September 2019
 
 ### PRESENCE
 
@@ -58,9 +56,11 @@ https://github.com/shunkakinoki
 
 #### Linkedin URL
 
-https://www.linkedin.com/in/shunkakinoki/
+https://www.linkedin.com/in/shunkakinoki
 
 #### Facebook URL
+
+https://facebook.com/shunkakinoki
 
 #### Twitter URL
 
@@ -96,13 +96,11 @@ Yes
 
 #### Do you have any other commitments between January through March 2021 inclusive?
 
-No
+No.
 
 #### Do you have any commitments in the future and if so what?
 
-My life mission is to Obliterate the Galaxy 🚀
-I want to be part of creating great products that are so good that they will obliterate the galaxy shattering,
-and wake up everyday in the morning striving to do so.
+No.
 
 ### CURIOUS
 
@@ -124,43 +122,27 @@ https://sentrei.com
 
 #### If you have a demo, what's the url? Demo can be anything that shows us how the product works. Usually that's a video or screen recording.
 
+https://demo.sentrei.com
+
 #### Describe what your company does in 50 characters or less.
 
 The Edge Serverless Backend
 
 #### What is your company going to make? Please describe your product and what it does or will do.
 
-The next-generation edge backend infrastructure as a service. (Think of it as like Vercel for Backend)
-We enable developers to develop apps with a 10x better backend developer experience while offering the bleeding edge technology.
-The product will consist of three main parts, a distributed SQL database, productive development flow, and edge functions.
-
-1. Distributed SQL Database
-
-We are planning to offer a distributed serverless Postgres database.
-This will free developers from ever worrying about scalability while harnessing the power of SQL.
-We will drive the adoption of serverless SQL databases.
-
-2. Productive Development Workflow
-
-We provide a seamless backend workflow from local development to production.
-Schema changes will instantly setup endpoints, such as a GraphQL API with edge caching.
-Migrations will be applied to every commit to the pull request, so developers can enjoy the latest changes without hassle.
-
-3. Edge functions
-
-We will offer edge functions in 200+ locations around the world for maximum performance, while providing zero cold starts.
-Developers will be able to write custom logic directly on the edge, leading to a delightful developer experience.
-We will accelerate the transition to the edge.
+We are building the next-generation edge backend as a service. (Think of it like Vercel for the backend.) The basic flow of backend development hasn’t changed in decades. It’s time for a change. We enable developers to develop apps to deploy their entire backend infrastructure directly to the edge. Specifically, we provide authentication, database, and endpoint for each pull request. This vastly improves backend developer experience while delivering exceptional performance to the end user.
 
 #### Where do you live now, and where would the company be based after YC?
 
-San Francisco, U.S.A. / Cupertino, U.S.A.
+SF, USA / SF, USA
 
 ### CONTACT
 
 #### Personal email address of the founder who is filling out this application:
 
 #### Phone number(s):
+
+[PHONE NUMBER]
 
 ### FOUNDERS
 
@@ -174,7 +156,7 @@ San Francisco, U.S.A. / Cupertino, U.S.A.
 
 #### Which category best applies to your company?
 
-Other
+Developer Tools
 
 ### PROGRESS
 
@@ -182,7 +164,7 @@ Other
 
 Building/Beta Sign-up phase.
 We are in the process of building the beta product.
-Currently aiming for a public avalability by the end of year.
+Currently aiming for a beta launch by June..
 
 #### How long have each of you been working on this? How much of that has been full-time? Please explain.
 
@@ -228,6 +210,26 @@ I know people want this because I've encountered my friends and tweets expressin
 It's new because it's a backend service tailored for the edge.
 It offers a better performance while providing a 10x backend developer experience,
 People resort to firebase and other existing infrastructure providers.
+
+The product will consist of three main parts, a distributed SQL database, productive development flow, and edge functions.
+
+1. Distributed SQL Database
+
+We are planning to offer a distributed serverless Postgres database.
+This will free developers from ever worrying about scalability while harnessing the power of SQL.
+We will drive the adoption of serverless SQL databases.
+
+2. Productive Development Workflow
+
+We provide a seamless backend workflow from local development to production.
+Schema changes will instantly setup endpoints, such as a GraphQL API with edge caching.
+Migrations will be applied to every commit to the pull request, so developers can enjoy the latest changes without hassle.
+
+3. Edge functions
+
+We will offer edge functions in 200+ locations around the world for maximum performance, while providing zero cold starts.
+Developers will be able to write custom logic directly on the edge, leading to a delightful developer experience.
+We will accelerate the transition to the edge.
 
 #### Who are your competitors, and who might become competitors? Who do you fear most?
 
@@ -331,10 +333,8 @@ I want to prove that even Japanese founders can create great software products b
 
 #### What convinced you to apply to Y Combinator? Did someone encourage you to apply?
 
-The moment I started a startup, I had to try to get in.
-In a sense, it's like a dream for aspiring founders all around the world.
-No.
+The moment I started a startup, I had to try to get in. In a sense, it's like a dream for aspiring founders all around the world. No.
 
 #### How did you hear about Y Combinator?
 
-I don't remember.
+Internet.

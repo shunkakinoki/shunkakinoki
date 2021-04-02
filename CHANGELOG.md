@@ -1,3 +1,9 @@
+## [4.41.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.41.0...v4.41.1) (2021-04-02)
+
+### Performance Improvements
+
+- upgrade with ncu ([00f9b8e](https://github.com/shunkakinoki/shunkakinoki/commit/00f9b8e837f00a04a60b67ad0053f1550d2c16b8))
+
 # [4.41.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.40.0...v4.41.0) (2021-03-16)
 
 ### Features

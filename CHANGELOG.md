@@ -1,3 +1,13 @@
+# [5.0.0](https://github.com/shunkakinoki/shunkakinoki/compare/v4.41.1...v5.0.0) (2021-04-02)
+
+### Features
+
+- complete upgrade dev ([89b4f1f](https://github.com/shunkakinoki/shunkakinoki/commit/89b4f1fa6c71ac31ccae592826d92061811bae92))
+
+### BREAKING CHANGES
+
+- YES
+
 ## [4.41.1](https://github.com/shunkakinoki/shunkakinoki/compare/v4.41.0...v4.41.1) (2021-04-02)
 
 ### Performance Improvements

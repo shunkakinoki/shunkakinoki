@@ -2,7 +2,7 @@
 
 My life mission is to
 
-## **Obliterate the Galaxy**
+## **Empower the world with technology**
 
 I want to create something that is so great that it's going to send shockwaves through space, infinity and beyond.
 

@@ -681,10 +681,10 @@
     multi-semantic-release "^2.8.0"
     sort-package-json "^1.49.0"
 
-"@shunkakinoki/eslint-config@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@shunkakinoki/eslint-config/-/eslint-config-1.0.0.tgz#f2cd9411048d639c8cefb5d0d476152306de9f80"
-  integrity sha512-zTjf78018fM/zXLHMhsVIZ7YvtguDaNbmQDwLFc10mlLH9Tyn64blL5ybjp+EXS2B/7sEVuG5xYHxZb1HsDIGA==
+"@shunkakinoki/eslint-config@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@shunkakinoki/eslint-config/-/eslint-config-1.0.1.tgz#02f83ba50b27372525c64398cf03ac9c98d832f1"
+  integrity sha512-k2iOhr2/8YnSyQFd1UG3EJadT9o05uPUdfsuHsu30WSj4+A+2jxcc77Q1M26mscZugi4nvjYbRaXJBYssm5OHA==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^4.20.0"
     "@typescript-eslint/parser" "^4.20.0"
@@ -743,10 +743,10 @@
     "@semantic-release/git" "^9.0.0"
     semantic-release "^17.4.2"
 
-"@shunkakinoki/tsconfig@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@shunkakinoki/tsconfig/-/tsconfig-1.0.0.tgz#a3886c00f2f86ca95885d22081af6099075ccc0a"
-  integrity sha512-j1NYsJxCgx7KcqYdxGlSM8hL6WDCuy079EhnjzEOmUJDoDEXTMcYvomhy9dyZgTLRzmzNbDriowKyTbiMq7LLg==
+"@shunkakinoki/tsconfig@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@shunkakinoki/tsconfig/-/tsconfig-1.0.1.tgz#ed2a80edca87b2127810bc97285e1315f47a3826"
+  integrity sha512-5M0E1bM182x34lPvm+k3vGlu8m/NdEEa3xYoSQJpoLKhxc3hZZwLa3Hiy3BhxV6t/Ilb++K1kmUnKYiyX/mMzw==
   dependencies:
     typescript "^4.2.3"
 

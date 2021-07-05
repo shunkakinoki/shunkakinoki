@@ -656,7 +656,7 @@
     lodash "^4.17.4"
     read-pkg-up "^7.0.0"
 
-"@shunkakinoki/commitlint@^1.0.0":
+"@shunkakinoki/commitlint@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@shunkakinoki/commitlint/-/commitlint-1.0.0.tgz#8d0258e59e2df2d2b5e6e5237d094c7be26a0da2"
   integrity sha512-Y8mshs9+1HGAl7bWPWFOTTYqoSpkK1X8zyFrUpvBY/S0K+hdqPVowZ1jH+D3Mw/97G5PmkCkiHJtRpif99sh8g==
@@ -665,14 +665,14 @@
     "@commitlint/config-conventional" "^12.1.1"
     commitlint "^12.1.1"
 
-"@shunkakinoki/depcheck@^1.0.0":
+"@shunkakinoki/depcheck@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@shunkakinoki/depcheck/-/depcheck-1.0.0.tgz#4945e4f1aa5389caa7ccb4a1b463142c5093aaf3"
   integrity sha512-7alGqPF+/qHYSeW41cmYL/OzIFGmkNPSyAwrbpRfxUb4LSQrZr2wxAHJEPKxapF24N/P3xSGUWkUA6UXcmaPCw==
   dependencies:
     depcheck "^1.4.0"
 
-"@shunkakinoki/dev@^1.0.0":
+"@shunkakinoki/dev@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@shunkakinoki/dev/-/dev-1.0.0.tgz#7ef6d5cb0fb720d6992b2271b287551c25d76675"
   integrity sha512-mRcBYSo6SwANnLkVOvHpQZpiNc8aAkKTruI/DHLVkImm69ei9l9VX4fSqzDbDD3YGS0p0RgFyKwbMTDIQMsr+Q==
@@ -681,7 +681,7 @@
     multi-semantic-release "^2.8.0"
     sort-package-json "^1.49.0"
 
-"@shunkakinoki/eslint-config@^1.0.0":
+"@shunkakinoki/eslint-config@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@shunkakinoki/eslint-config/-/eslint-config-1.0.0.tgz#f2cd9411048d639c8cefb5d0d476152306de9f80"
   integrity sha512-zTjf78018fM/zXLHMhsVIZ7YvtguDaNbmQDwLFc10mlLH9Tyn64blL5ybjp+EXS2B/7sEVuG5xYHxZb1HsDIGA==
@@ -699,7 +699,7 @@
     eslint-plugin-react-hooks "^4.2.0"
     eslint-plugin-simple-import-sort "^7.0.0"
 
-"@shunkakinoki/husky@^1.0.0":
+"@shunkakinoki/husky@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@shunkakinoki/husky/-/husky-1.0.0.tgz#cc792629a492412f56c2e1ef932d4e2c9d4dbc63"
   integrity sha512-cmBYxtOL21pccSB2K3sD+CBNpzs43tTSchiJAEWlF7S/Ha3yPFi+c+69e8Td9CTNNt1iqm+Xztwiz1RnEzbLUg==
@@ -710,21 +710,21 @@
     is-ci "^3.0.0"
     pinst "^2.1.6"
 
-"@shunkakinoki/lint-staged@^1.0.0":
+"@shunkakinoki/lint-staged@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@shunkakinoki/lint-staged/-/lint-staged-1.0.0.tgz#ee26a00dddc489da59af6997980215f529aa7cb9"
   integrity sha512-H35C+Iy8eOOHwYWup9wuQTOUgZbSIjzlpp9v3Ht+KTZHe4MFDsn0b/CwRlxF4vNeqlQSUv1hbSpU5eb2RqvIRA==
   dependencies:
     lint-staged "^10.5.4"
 
-"@shunkakinoki/npm-check-updates@^1.0.0":
+"@shunkakinoki/npm-check-updates@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@shunkakinoki/npm-check-updates/-/npm-check-updates-1.0.0.tgz#4a1a708a41736a3dd941bb14d26e8fd23c94ac17"
   integrity sha512-29ZfPUamWISk44rEZfhpKVz3cl4thNobJv1UgHyW9SS0F26F5YuveaKbfqaT9rtaII3gWCIUJcH2ehPz9DuiDQ==
   dependencies:
     npm-check-updates "^11.3.0"
 
-"@shunkakinoki/prettier@^1.0.0":
+"@shunkakinoki/prettier@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@shunkakinoki/prettier/-/prettier-1.0.0.tgz#d3956291a8339b73e8866c319d692647da070829"
   integrity sha512-H8ht/W9LU1aKXERRwVIhkNyoRPNPm6NEECsHRhaysoFrVAkbUO+Y08b9iahp/dg02OCPcEuAJQdQkL2kODa2DA==
@@ -733,7 +733,7 @@
     prettier-plugin-packagejson "^2.2.10"
     prettier-plugin-sort-json "^0.0.2"
 
-"@shunkakinoki/semantic-release@^1.0.0":
+"@shunkakinoki/semantic-release@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@shunkakinoki/semantic-release/-/semantic-release-1.0.0.tgz#cad5c5522e7858b7e10337425e189f1c8fdaa198"
   integrity sha512-/EOFy3KDplBaDp9ei2VTdxhfI6+WVWIIJOW8SGHBymH+MFokF3uwd9LCJ7dlDMGaXeZ1MSZErLZDYVtYZjzj6Q==
@@ -743,7 +743,7 @@
     "@semantic-release/git" "^9.0.0"
     semantic-release "^17.4.2"
 
-"@shunkakinoki/tsconfig@^1.0.0":
+"@shunkakinoki/tsconfig@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@shunkakinoki/tsconfig/-/tsconfig-1.0.0.tgz#a3886c00f2f86ca95885d22081af6099075ccc0a"
   integrity sha512-j1NYsJxCgx7KcqYdxGlSM8hL6WDCuy079EhnjzEOmUJDoDEXTMcYvomhy9dyZgTLRzmzNbDriowKyTbiMq7LLg==
@@ -6113,7 +6113,7 @@ npm-package-arg@^8.0.0, npm-package-arg@^8.0.1:
     semver "^7.0.0"
     validate-npm-package-name "^3.0.0"
 
-npm-package-json-lint-config-shunkakinoki@^1.0.0:
+npm-package-json-lint-config-shunkakinoki@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/npm-package-json-lint-config-shunkakinoki/-/npm-package-json-lint-config-shunkakinoki-1.0.0.tgz#dc8cea1fa86ecde8c9bbe5b4e9e1992a68db78f4"
   integrity sha512-xOD9xJyYdGrNuQiSnmtu/6Y1omBQNR+oHHTgHxniWUg1MDF/9J9lJ3YdphoqoqktwdF2wjOYiVWpKYgAfMxCmQ==

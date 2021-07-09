@@ -1,3 +1,9 @@
+## [5.0.2](https://github.com/shunkakinoki/shunkakinoki/compare/v5.0.1...v5.0.2) (2021-07-09)
+
+### Performance Improvements
+
+- refactor scripty dev ([f7bf9c1](https://github.com/shunkakinoki/shunkakinoki/commit/f7bf9c10cbd911524b984bac2949229a3255fc13))
+
 ## [5.0.1](https://github.com/shunkakinoki/shunkakinoki/compare/v5.0.0...v5.0.1) (2021-07-05)
 
 ### Bug Fixes

@@ -921,10 +921,10 @@
     scripty "^2.0.0"
     sort-package-json "^1.50.0"
 
-"@shunkakinoki/eslint-config@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@shunkakinoki/eslint-config/-/eslint-config-1.1.0.tgz#b703ebfbca63b1c035b2bfaadfebe7b2dee0d2b8"
-  integrity sha512-VEWiVnV/qsoV97Sm6h97v32dvgJ0OoSWMy8FSLElbF8xCkfCbddBSHqjBK5gqIu/3aWLWEqwvd6d/QRg3sYt/g==
+"@shunkakinoki/eslint-config@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@shunkakinoki/eslint-config/-/eslint-config-1.1.1.tgz#c5499ac346c8ba179c9a0cec734409db9b9970cc"
+  integrity sha512-29iNSiM/gOo/eUw6SFShkModyVjpbAt6mQQ3IQ6fExyt3cLZ+N8/PmE2+gygCMiqF7OZkIQ2bkDXeKiJphW/Ng==
   dependencies:
     "@next/eslint-plugin-next" "^11.0.1"
     "@typescript-eslint/eslint-plugin" "^4.28.2"

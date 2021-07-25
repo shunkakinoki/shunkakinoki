@@ -1,3 +1,9 @@
+## [5.0.4](https://github.com/shunkakinoki/shunkakinoki/compare/v5.0.3...v5.0.4) (2021-07-25)
+
+### Bug Fixes
+
+- **deps:** update rust crate open to v2 ([dd86606](https://github.com/shunkakinoki/shunkakinoki/commit/dd866069138d139ed02083c42fc602f2532ad4be))
+
 ## [5.0.3](https://github.com/shunkakinoki/shunkakinoki/compare/v5.0.2...v5.0.3) (2021-07-19)
 
 ### Bug Fixes

@@ -13,7 +13,8 @@ jobs:
           yarn install --frozen-lockfile
       - run: |
           bash scripts/notion2md.sh
-      - run: |
+      - continue-on-error: true
+        run: |
           yarn run fix
           git config --local user.name 'github-actions[bot]'
           git config --local user.email 'github-actions[bot]@users.noreply.github.com'

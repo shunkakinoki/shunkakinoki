@@ -20,5 +20,5 @@ jobs:
           yarn run fix
           git config --local user.name 'github-actions[bot]'
           git config --local user.email 'github-actions[bot]@users.noreply.github.com'
-          git commit -am "chore: [shunkakinoki-auto-fix]"
+          git commit -am "chore: auto notion update"
           git push

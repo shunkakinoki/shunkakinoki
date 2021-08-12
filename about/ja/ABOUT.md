@@ -1,4 +1,4 @@
-# About
+# 自分について
 
 私は[Entrepreneur](https://sentrei.com/), [Hacker](https://github.com/shunkakinoki), & [Pioneer](https://pioneer.app/winners/shun-kakinoki/)で、銀河系を真っ二つにします。
 

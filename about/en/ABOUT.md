@@ -1,4 +1,4 @@
-# About
+# About me
 
 I am an [entrepreneur](https://sentrei.com/), [hacker](https://github.com/shunkakinoki), & [pioneer](https://pioneer.app/winners/shun-kakinoki/) striving to obliterate the galaxy.
 

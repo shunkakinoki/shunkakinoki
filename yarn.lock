@@ -7071,10 +7071,10 @@ normalize-url@^5.0.0:
   resolved "https://registry.yarnpkg.com/normalize-url/-/normalize-url-5.0.0.tgz#f46c9dc20670495e4e18fbd1b4396e41d199f63c"
   integrity sha512-bAEm2fx8Dq/a35Z6PIRkkBBJvR56BbEJvhpNtvCZ4W9FyORSna77fn+xtYFjqk5JpBS+fMnAOG/wFgkQBmB7hw==
 
-notion2md@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/notion2md/-/notion2md-1.0.6.tgz#82273285b06c2ff0ba4d6c14639af2270dd6770e"
-  integrity sha512-RzNTsSD1iqc/xwuW/V6PNalrCsJ3tFKLe2TphW/5zvFEaW09tLECBqMHbU1COfoWsl401FH9GuGJYmCwoHc+ng==
+notion2md@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/notion2md/-/notion2md-1.1.0.tgz#586a4375d93bf31f92c3112c84b66cc8ca83ef70"
+  integrity sha512-il5bsoqZ/GIfqNZ93F4jA6qDhYMxrbuUVW04DvEecksyiCZzLouS9qks7OWiPjG/6+wJRdGst7v7nnrMbPSprg==
   dependencies:
     "@notionhq/client" "^0.2.3"
     chalk "^4.1.1"

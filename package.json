@@ -39,7 +39,7 @@
     "release:semantic-release": "scripty"
   },
   "dependencies": {
-    "notion2md": "^1.0.6"
+    "notion2md": "^1.1.0"
   },
   "devDependencies": {
     "@shunkakinoki/commitlint": "^1.0.2",

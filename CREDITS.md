@@ -10,3 +10,8 @@
 
 - Ryotaro Saishu
 - Koju Furuta
+
+## Comrades
+
+- Kohei Nagata
+- Datz Itsuki

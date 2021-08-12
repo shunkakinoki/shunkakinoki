@@ -27,6 +27,27 @@ fn main() {
         Some(("values", _)) => {
             open::that(format!("{}/values", WEBSITE)).unwrap();
         }
+        Some(("how", _)) => {
+            open::that(format!("{}/cause", WEBSITE)).unwrap();
+        }
+        Some(("resume", _)) => {
+            open::that(format!("{}/mission", WEBSITE)).unwrap();
+        }
+        Some(("what", _)) => {
+            open::that(format!("{}/values", WEBSITE)).unwrap();
+        }
+        Some(("when", _)) => {
+            open::that(format!("{}/cause", WEBSITE)).unwrap();
+        }
+        Some(("who", _)) => {
+            open::that(format!("{}/mission", WEBSITE)).unwrap();
+        }
+        Some(("why", _)) => {
+            open::that(format!("{}/values", WEBSITE)).unwrap();
+        }
+        Some(("where", _)) => {
+            open::that(format!("{}/values", WEBSITE)).unwrap();
+        }
         None => println!("No subcommand was used"),
         _ => unreachable!(),
     }

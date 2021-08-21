@@ -10,7 +10,7 @@ yarn run notion2md --id 05c6cb937b9840e9b2cbd5bd967aad0f -f CREDITS.md
 yarn run notion2md --id 1e282a0dc8ac4aa3a311027b943b200c -f about/ja/ABOUT.md
 yarn run notion2md --id 748fb4a50dc94ababcb15a4376405022 -f cause/ja/CAUSE.md
 yarn run notion2md --id a53125f645464bc6aed2ddb0fd29f82d -f mission/ja/MISSION.md
-yarn run notion2md --id cc7c793f150a4355a7cbd1e6bd082805 -f history/ja/HISTORYS.md
+yarn run notion2md --id cc7c793f150a4355a7cbd1e6bd082805 -f history/ja/HISTORY.md
 yarn run notion2md --id 40db409b208d4134a29710eccd0c8fa3 -f values/ja/VALUES.md
 
 yarn run notion2md --id 1a0ae715baf5459db23daf07b208d9ef -f about/zh/ABOUT.md

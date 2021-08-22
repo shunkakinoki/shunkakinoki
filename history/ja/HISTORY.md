@@ -5,11 +5,11 @@
 
 ### 2020
 
-- ::tag:: Selected as a Pioneer at [pioneer.app](http://pioneer.app) @August 2020
+- ::tag:: Selected as a Pioneer at pioneer.app @August 2020
 
 ### 2018
 
-- ::fire:: Started hacking through [fast.ai](http://fast.ai/) @June 2018
+- ::fire:: Started hacking through fast.ai @June 2018
 
 ### 2017
 

@@ -610,3 +610,6 @@ dmypy.json
 *.exe
 *.out
 *.app
+
+solana-release
+solana-release-x86_64-apple-darwin.tar.bz2

@@ -2,7 +2,7 @@
 
 My life mission is to
 
-## **Empower the world with technology**
+## Do Great Work
 
 I want to create something that is so great that it's going to send shockwaves through space, infinity and beyond.
 

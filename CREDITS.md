@@ -16,6 +16,6 @@
 - Kohei Nagata
 - Datz Itsuki
 
-### Senpai
+## Senpai
 
 - Shun Yamada

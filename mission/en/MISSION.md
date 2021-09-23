@@ -18,7 +18,7 @@ I heavily emphasize the importance of what to pursue during my short time on thi
 
 ### **Essentially everything may be meaningless, but shockwaves are engraved in people's hearts forever**
 
-If I could be the driving force of a product that is so great it's going to change everything, nothing would be more important than that.
+Make the most of the one life I got. Build something great. I could be the driving force of a product that is so great it's going to change everything, nothing would be more important than that.
 
 That would mean the world to me.
 

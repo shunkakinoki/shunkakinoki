@@ -9,7 +9,6 @@
 ## Friends
 
 - Ryotaro Saishu
-- Koju Furuta
 
 ## Comrades
 

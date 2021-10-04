@@ -1248,12 +1248,12 @@
   dependencies:
     depcheck "^1.4.2"
 
-"@shunkakinoki/dev@^1.2.6":
-  version "1.2.6"
-  resolved "https://registry.yarnpkg.com/@shunkakinoki/dev/-/dev-1.2.6.tgz#0be0b3afeb5aa02e37f1f8d0c95430c1744acd7c"
-  integrity sha512-Xw7F6ZRHL3R/1PPMyQRK+P8BG0be0ruuohe35wPPqprwj8QRee/6zL7rXN6cm4YZFpxZ3vMJ+T753i1AWujNsQ==
+"@shunkakinoki/dev@^1.2.7":
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/@shunkakinoki/dev/-/dev-1.2.7.tgz#fdab9a0e1e8e73441729335e478afcc088a4f149"
+  integrity sha512-lm/bE6Tivi/eVR34uaiCTmeei/e1w5uvIo0AfXzCTxX5trNU8SMO6NmiN41EELYcyGgu1H9q2eST6N87nRxrXg==
   dependencies:
-    concurrently "^6.2.2"
+    concurrently "^6.3.0"
     cross-env "^7.0.3"
     scripty "^2.0.0"
     sort-package-json "^1.52.0"
@@ -3025,7 +3025,7 @@ concat-stream@^1.5.0:
     readable-stream "^2.2.2"
     typedarray "^0.0.6"
 
-concurrently@^6.2.2:
+concurrently@^6.3.0:
   version "6.3.0"
   resolved "https://registry.yarnpkg.com/concurrently/-/concurrently-6.3.0.tgz#63128cb4a6ed54d3c0ed8528728590a5fe54582a"
   integrity sha512-k4k1jQGHHKsfbqzkUszVf29qECBrkvBKkcPJEUDTyVR7tZd1G/JOfnst4g1sYbFvJ4UjHZisj1aWQR8yLKpGPw==

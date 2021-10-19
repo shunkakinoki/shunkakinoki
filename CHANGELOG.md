@@ -1,3 +1,9 @@
+## [5.0.7](https://github.com/shunkakinoki/shunkakinoki/compare/v5.0.6...v5.0.7) (2021-10-19)
+
+### Bug Fixes
+
+- **deps:** update rust crate clap to 3.0.0-beta.5 ([b868405](https://github.com/shunkakinoki/shunkakinoki/commit/b868405ad5aa897c8b7651447fa543714275d031))
+
 ## [5.0.6](https://github.com/shunkakinoki/shunkakinoki/compare/v5.0.5...v5.0.6) (2021-08-16)
 
 ### Bug Fixes

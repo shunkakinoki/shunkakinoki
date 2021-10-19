@@ -2,7 +2,7 @@
 
 1. Greatness
 2. Tranquility
-3. Love
+3. ???
 
 ## Greatness
 
@@ -36,18 +36,6 @@ Physical health will leverage the potential of the state of tranquility.
 
 I will strive towards being calm, peaceful & wise.
 
-## Love
+### ???
 
-I will continue to give, give & give towards people and the world.
-
-Love is what will bind me to be ethical.
-Love is what will drive me forward when things are tough.
-Love is what will forever be a reminder that I only exist intertwined under the web of love.
-
-Help with love.
-
-I believe it doesn't have to be mutual, and that it can serve to be one-way.
-I am already interwinded under infinite webs of love among people.
-It is necessary to give back through love, and love only.
-
-I will not expect nor hope for anything in return of giving love.
+To be defined...

@@ -9,3 +9,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-pc-load-letter.svg)](https://forthebadge.com)
 
 </div>
+
+![Alt](https://repobeats.axiom.co/api/embed/3b6e5e60866d3e34be758f44f4916fd45e415797.svg "Repobeats")

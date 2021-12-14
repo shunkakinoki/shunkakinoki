@@ -43,3 +43,5 @@ However,
 I believe that ethics prevail in the end.
 I believe are still things we can do for the better in the long term.
 I wish to be part of the driving force that will be great for the world.
+
+There is still so, so, so much more to do. So much more to build. So much more to create.

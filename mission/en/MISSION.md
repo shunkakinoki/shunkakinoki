@@ -2,11 +2,11 @@
 
 My life mission is to
 
-## Do Great Work
+## Obliterate the galaxy
 
 I want to create something that is so great at a large scale that it's going to send shockwaves through space, infinity and beyond.
 
-This will come through products, delivered through startups.
+This will come through startups, delivered through products.
 
 ## Background
 

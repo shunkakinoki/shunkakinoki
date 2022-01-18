@@ -2,7 +2,7 @@
 
 1. Greatness
 2. Tranquility
-3. ???
+3. Relentlessness
 
 ## Greatness
 
@@ -36,6 +36,14 @@ Physical health will leverage the potential of the state of tranquility.
 
 I will strive towards being calm, peaceful & wise.
 
-### ???
+### Relentlessness
 
-To be defined...
+I value in excessive relentlessness in order to achieve something meaningful.
+
+Relentlessness is required to push yourself forward.
+Relentlessness is what will enable me to open and grab new opportunities.
+Relentlessness is how I will realize my dream.
+
+Be at war with yourself.
+
+I will never give up and keep fighting as long as I am alive.

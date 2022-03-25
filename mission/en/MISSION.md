@@ -6,7 +6,7 @@ My life mission is to
 
 I want to create something that is so great at a large scale that it's going to send shockwaves through space, infinity and beyond.
 
-This will come through startups, delivered through products.
+This will come delivered through products (some through startups).
 
 ## Background
 

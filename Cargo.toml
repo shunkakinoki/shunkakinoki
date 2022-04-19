@@ -18,7 +18,7 @@ name = "shunkakinoki"
 path = "src/tests/main.rs"
 
 [dependencies]
-clap = "3.1.9"
+clap = "3.1.10"
 open = "2.1.1"
 
 [dev-dependencies]

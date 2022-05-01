@@ -19,6 +19,6 @@ path = "src/tests/main.rs"
 
 [dependencies]
 clap = "3.1.12"
-open = "2.1.1"
+open = "2.1.2"
 
 [dev-dependencies]

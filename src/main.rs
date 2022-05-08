@@ -18,6 +18,12 @@ fn main() {
         Some(("home", _)) => {
             open::that(WEBSITE).unwrap();
         }
+        Some(("blog", _)) => {
+            open::that(format!("{}/blog", WEBSITE)).unwrap();
+        }
+        Some(("history", _)) => {
+            open::that(format!("{}/history", WEBSITE)).unwrap();
+        }
         Some(("products", _)) => {
             open::that(format!("{}/products", WEBSITE)).unwrap();
         }

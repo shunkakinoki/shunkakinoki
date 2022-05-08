@@ -18,6 +18,9 @@ fn main() {
         Some(("home", _)) => {
             open::that(WEBSITE).unwrap();
         }
+        Some(("products", _)) => {
+            open::that(format!("{}/products", WEBSITE)).unwrap();
+        }
         Some(("cause", _)) => {
             open::that(format!("{}/cause", WEBSITE)).unwrap();
         }

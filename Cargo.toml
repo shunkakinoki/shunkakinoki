@@ -18,7 +18,10 @@ name = "shunkakinoki"
 path = "src/tests/main.rs"
 
 [dependencies]
-clap = "3.1.17"
+actix-web = "4.0.1"
+env_logger = "0.9.0"
+clap = "3.1.18"
+log = "0.4.17"
 open = "2.1.2"
 
 [dev-dependencies]

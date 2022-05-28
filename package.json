@@ -21,7 +21,7 @@
     "fix": "scripty",
     "fix:eslint": "scripty",
     "fix:prettier": "scripty",
-    "fix:sort-package-json": "scripty",
+    "fix:sort-package-json": "echo",
     "lint": "scripty",
     "lint:eslint": "scripty",
     "lint:npm-package-json": "scripty",

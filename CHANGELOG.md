@@ -1,3 +1,26 @@
+# [5.1.0](https://github.com/shunkakinoki/shunkakinoki/compare/v5.0.8...v5.1.0) (2022-05-28)
+
+### Bug Fixes
+
+- **deps:** update rust crate clap to 3.1.10 ([#1423](https://github.com/shunkakinoki/shunkakinoki/issues/1423)) ([6c17ada](https://github.com/shunkakinoki/shunkakinoki/commit/6c17ada22cadec6bd9139b4380909cdc3392dcc9))
+- **deps:** update rust crate clap to 3.1.11 ([#1424](https://github.com/shunkakinoki/shunkakinoki/issues/1424)) ([1875b9a](https://github.com/shunkakinoki/shunkakinoki/commit/1875b9a344e459e03e7ab6535c0b3e6c735b47d8))
+- **deps:** update rust crate clap to 3.1.12 ([#1425](https://github.com/shunkakinoki/shunkakinoki/issues/1425)) ([847b8d1](https://github.com/shunkakinoki/shunkakinoki/commit/847b8d12d62c399ce81b1ab370bafb92c324b2e6))
+- **deps:** update rust crate clap to 3.1.14 ([#1427](https://github.com/shunkakinoki/shunkakinoki/issues/1427)) ([3db1003](https://github.com/shunkakinoki/shunkakinoki/commit/3db1003ee4db8fb916d4de483ab511c3275f76fa))
+- **deps:** update rust crate clap to 3.1.15 ([#1429](https://github.com/shunkakinoki/shunkakinoki/issues/1429)) ([56c69ac](https://github.com/shunkakinoki/shunkakinoki/commit/56c69ac8ec7f0b19a24900692148def727cf37a8))
+- **deps:** update rust crate clap to 3.1.17 ([#1430](https://github.com/shunkakinoki/shunkakinoki/issues/1430)) ([8c6502d](https://github.com/shunkakinoki/shunkakinoki/commit/8c6502d61da904868ce328fcedc5d72f7e7c7a3a))
+- **deps:** update rust crate clap to 3.1.6 ([#1407](https://github.com/shunkakinoki/shunkakinoki/issues/1407)) ([389e830](https://github.com/shunkakinoki/shunkakinoki/commit/389e830bf48765b0452ef61f8b42171c0509b860))
+- **deps:** update rust crate clap to 3.1.7 ([#1420](https://github.com/shunkakinoki/shunkakinoki/issues/1420)) ([b80cded](https://github.com/shunkakinoki/shunkakinoki/commit/b80cded217a2b6b9d32c078f6eeec8284a754afe))
+- **deps:** update rust crate clap to 3.1.8 ([#1421](https://github.com/shunkakinoki/shunkakinoki/issues/1421)) ([9bf5c30](https://github.com/shunkakinoki/shunkakinoki/commit/9bf5c309c83a1babb3da1dcebebde8a3d3c49c1d))
+- **deps:** update rust crate clap to 3.1.9 ([#1422](https://github.com/shunkakinoki/shunkakinoki/issues/1422)) ([d1303c3](https://github.com/shunkakinoki/shunkakinoki/commit/d1303c3acbec57482c52d15327b76b28005e91d2))
+- **deps:** update rust crate open to 2.1.1 ([#1417](https://github.com/shunkakinoki/shunkakinoki/issues/1417)) ([2ef8eb8](https://github.com/shunkakinoki/shunkakinoki/commit/2ef8eb8c7db22f6ea7a16a09a717bc787b27aaca))
+- **deps:** update rust crate open to 2.1.2 ([#1428](https://github.com/shunkakinoki/shunkakinoki/issues/1428)) ([995fe8d](https://github.com/shunkakinoki/shunkakinoki/commit/995fe8def0a7b08847631b6d42c0bbd5e3bd802a))
+
+### Features
+
+- ini fly ([8d7a315](https://github.com/shunkakinoki/shunkakinoki/commit/8d7a315326d75dfc53103535aa1ee86db8f020ee))
+- ini fly rust ([0a629d2](https://github.com/shunkakinoki/shunkakinoki/commit/0a629d2afd497bca565db08e783f5a2d27a0a9b5))
+- ini main ([4077f3a](https://github.com/shunkakinoki/shunkakinoki/commit/4077f3a7415d9e48ca6a7f51e93a229ad31e8c9e))
+
 ## [5.0.8](https://github.com/shunkakinoki/shunkakinoki/compare/v5.0.7...v5.0.8) (2021-12-01)
 
 ### Bug Fixes

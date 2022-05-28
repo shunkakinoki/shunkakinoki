@@ -1,0 +1,12 @@
+name: Fly
+on:
+  push:
+jobs:
+  fly:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3t
+      - uses: superfly/flyctl-actions/setup-flyctl@master
+      - run: flyctl deploy --remote-only
+        env:
+          FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}

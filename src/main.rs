@@ -1,15 +1,14 @@
-use clap::{crate_version, App};
+use clap::{Command};
 extern crate open;
 
 fn main() {
-    let matches = App::new("shunkakinoki")
+    let matches = Command::new("shunkakinoki")
         .about("Shun Kakinoki's CLI")
-        .version(crate_version!())
         .author("Shun Kakinoki <shunkakinoki@gmail.com>")
-        .subcommand(App::new("home").about("Opens shunkakinoki.com"))
-        .subcommand(App::new("cause").about("Opens cause"))
-        .subcommand(App::new("mission").about("Opens mission"))
-        .subcommand(App::new("values").about("Opens values"))
+        .subcommand(Command::new("home").about("Opens shunkakinoki.com"))
+        .subcommand(Command::new("cause").about("Opens cause"))
+        .subcommand(Command::new("mission").about("Opens mission"))
+        .subcommand(Command::new("values").about("Opens values"))
         .get_matches();
 
     const WEBSITE: &str = "https://shunkakinoki.com";

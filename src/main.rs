@@ -1,4 +1,5 @@
 use actix_web::{get, middleware::Logger, App, HttpResponse, HttpServer, Responder};
+extern crate num_cpus;
 
 #[get("/")]
 async fn index() -> impl Responder {
@@ -8,6 +9,11 @@ async fn index() -> impl Responder {
 #[get("/again")]
 async fn again() -> impl Responder {
     HttpResponse::Ok().body("Hello world again!")
+}
+
+#[get("/num")]
+async fn num() -> impl Responder {
+    HttpResponse::Ok().body(format!("{}", num_cpus::get()))
 }
 
 #[actix_web::main]

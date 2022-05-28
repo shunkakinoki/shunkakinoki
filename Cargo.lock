@@ -950,6 +950,7 @@ dependencies = [
  "clap",
  "env_logger",
  "log",
+ "num_cpus",
  "open",
 ]
 

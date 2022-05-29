@@ -47,3 +47,5 @@ Relentlessness is how I will realize my dream.
 Be at war with yourself.
 
 I will never give up and keep fighting as long as I am alive.
+
+Win. Win. Win.

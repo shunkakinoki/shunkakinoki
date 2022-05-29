@@ -17,11 +17,11 @@
     "activityBar.inactiveForeground": "#15202b99",
     "activityBarBadge.background": "#df00ad",
     "activityBarBadge.foreground": "#e7e7e7",
+    "sash.hoverBorder": "#1accff",
+    "tab.activeBorder": "#1accff",
     "titleBar.activeBackground": "#00b3e6",
     "titleBar.activeForeground": "#15202b",
     "titleBar.inactiveBackground": "#00b3e699",
-    "titleBar.inactiveForeground": "#15202b99",
-    "tab.activeBorder": "#1accff",
-    "sash.hoverBorder": "#1accff"
+    "titleBar.inactiveForeground": "#15202b99"
   }
 }

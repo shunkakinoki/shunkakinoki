@@ -1,3 +1,9 @@
+# [5.2.0](https://github.com/shunkakinoki/shunkakinoki/compare/v5.1.0...v5.2.0) (2022-05-29)
+
+### Features
+
+- ini fly watch ([dc5ba75](https://github.com/shunkakinoki/shunkakinoki/commit/dc5ba75efcbb23bec06dbfc621af5c836c86220a))
+
 # [5.1.0](https://github.com/shunkakinoki/shunkakinoki/compare/v5.0.8...v5.1.0) (2022-05-28)
 
 ### Bug Fixes

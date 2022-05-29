@@ -11,6 +11,11 @@ async fn again() -> impl Responder {
     HttpResponse::Ok().body("Hello world again!")
 }
 
+#[get("/watch")]
+async fn watch() -> impl Responder {
+    HttpResponse::Ok().body("Hello world watch!")
+}
+
 #[get("/num")]
 async fn num() -> impl Responder {
     HttpResponse::Ok().body(format!("{}", num_cpus::get()))
@@ -27,6 +32,7 @@ async fn main() -> std::io::Result<()> {
             .wrap(Logger::default())
             .service(index)
             .service(again)
+            .service(watch)
             .service(num)
     })
     .bind(("0.0.0.0", 8080))?

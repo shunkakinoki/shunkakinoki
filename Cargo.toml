@@ -26,3 +26,4 @@ num_cpus = "1.0"
 open = "2.1.2"
 
 [dev-dependencies]
+cargo-watch = "8.1.1"

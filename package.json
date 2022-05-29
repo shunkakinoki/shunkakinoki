@@ -22,6 +22,7 @@
     "fix:eslint": "scripty",
     "fix:prettier": "scripty",
     "fix:sort-package-json": "echo",
+    "fly:watch": "cargo run watch -x 'run --bin shunkakinoki",
     "lint": "scripty",
     "lint:eslint": "scripty",
     "lint:npm-package-json": "scripty",

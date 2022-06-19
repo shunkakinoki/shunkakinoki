@@ -6,6 +6,10 @@
 - Maki Kakinoki
 - Yu Kakinoki
 
+### Partner
+
+- Tomona Kaji
+
 ## Friends
 
 - Ryotaro Saishu

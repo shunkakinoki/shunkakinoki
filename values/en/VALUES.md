@@ -44,7 +44,9 @@ Relentlessness is required to push yourself forward.
 Relentlessness is what will enable me to open and grab new opportunities.
 Relentlessness is how I will realize my dream.
 
-Be at war with yourself.
+Be at war with yourself. Push.
+
+I will push until my last breath of my life. No fear + no quit + only forward.
 
 I will never give up and keep fighting as long as I am alive.
 

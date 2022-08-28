@@ -22,7 +22,7 @@ I will continue to do what I consider is to be great.
 
 ## Tranquility
 
-I value in peace from mind and mental clearness.
+I value in peace from mind and mental clearness, indulging in the moment.
 
 Tranquility is what will realize happiness from within.
 Tranquility is what will enable me to make wise decisions.
@@ -30,19 +30,19 @@ Tranquility is what will push me to continue to take action.
 
 Be at peace.
 
-The mind will only serve as a tool for excersing decisions, not my master.
+The mind will only serve as a tool for exercising decisions, not my master.
 Emotions will serve to me only as short bursts of energy, and will not be my servant.
 Physical health will leverage the potential of the state of tranquility.
 
 I will strive towards being calm, peaceful & wise.
 
-### Relentlessness
+### Discipline
 
-I value in excessive relentlessness in order to achieve something meaningful.
+I value in discipline in order to achieve freedom.
 
-Relentlessness is required to push yourself forward.
-Relentlessness is what will enable me to open and grab new opportunities.
-Relentlessness is how I will realize my dream.
+Discipline is required to push yourself forward.
+Discipline is what will enable me to realize what is truly important.
+Discipline is how I will realize my dream.
 
 Be at war with yourself. Push.
 

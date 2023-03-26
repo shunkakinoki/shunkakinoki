@@ -10,15 +10,17 @@ This will come delivered through products (some through startups).
 
 ## Background
 
-Having growing up in Cupertino City, where the HQ of Apple is located at, I literally witnessed before my very eyes how a great product could change everything.
+Having growing up in Cupertino City, where the HQ of Apple is located at, I witnessed before my very eyes how a great product could change the world.
 
 As an avid believer of [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14),
 
-I heavily emphasize the importance of what to pursue during my short time on this planet.
+I heavily emphasize the importance of what to pursue during my time here.
 
 ### **Essentially everything may be meaningless, but shockwaves are engraved in people's hearts forever**
 
-Make the most of the one life I got. Build something great. I could be the driving force of a product that is so great it's going to change everything, that itself is so f\*\*king cool.
+Make the most of the one life I got. Build something great. Fulfill my potential to the full extent.
+
+I could be the driving force of a product that is so great it's going to change everything, that itself is so f\*\*king cool.
 
 That would mean the world to me.
 

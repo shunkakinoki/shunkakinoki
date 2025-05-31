@@ -1,0 +1,3 @@
+cd data
+pdflatex resume.tex
+

@@ -6,6 +6,10 @@ on:
   pull_request:
     branches:
       - main
+permissions:
+  id-token: write
+  contents: write
+  pull-requests: write
 jobs:
   resume:
     name: Resume PDF

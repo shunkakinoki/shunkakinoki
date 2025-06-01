@@ -31,4 +31,4 @@ jobs:
       #     commit_message: Apply Resume PDF
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Apply Resume PDF
+          commit_message: chore: apply resume.pdf

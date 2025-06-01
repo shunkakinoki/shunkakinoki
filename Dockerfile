@@ -1,4 +1,5 @@
 # From: https://github.com/sb2nov/resume
+# License: MIT
 
 FROM debian:stable-slim
 ENV DEBIAN_FRONTEND noninteractive

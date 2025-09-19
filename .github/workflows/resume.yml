@@ -11,8 +11,7 @@ permissions:
   contents: write
   pull-requests: write
 jobs:
-  resume:
-    name: Resume PDF
+  resume-run:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -30,3 +29,14 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: apply resume.pdf"
+  resume-check:
+    if: always()
+    needs:
+      - resume
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Resume Check
+        uses: re-actors/alls-green@release/v1
+        with:
+          jobs: ${{ toJSON(needs) }}

@@ -1,0 +1,133 @@
+%-------------------------
+% Shun Kakinoki's Resume
+%-------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\pdfgentounicode=1
+
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{\href{https://www.shunkakinoki.com/}{\Large Shun Kakinoki}} & Email: \href{mailto:shunkakinoki@gmail.com}{shunkakinoki@gmail.com} \\
+  \href{https://www.shunkakinoki.com/}{www.shunkakinoki.com} & \href{https://github.com/shunkakinoki}{github.com/shunkakinoki} \\
+\end{tabular*}
+
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Sequence}{Remote}
+      {Head of Cross-Chain}{2025 -- Present}
+      \resumeItemListStart
+        \resumeItem{Product Leadership}{Driving Sequence's cross-chain strategy and leading the development of Sequence Anypay, a seamless one-click cross-chain payment solution.}
+        \resumeItem{Chain Abstraction}{Designing and implementing abstraction layers for cross-chain interactions, improving developer experience across EVM-compatible and non-EVM blockchains.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Light}{San Francisco, CA}
+      {Founder \& CEO}{2022 -- 2025}
+      \resumeItemListStart
+        \resumeItem{Chain Abstraction Protocol}{Founded Light, an innovative chain abstraction startup enabling multi-chain access for dApps and wallets.}
+        \resumeItem{Acquisition by Sequence}{Led the successful acquisition of Light by Sequence, contributing to the unified vision of the EVM ecosystem.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Wagumi DAO}{Tokyo, Japan}
+      {Founder}{2021 -- 2022}
+      \resumeItemListStart
+        \resumeItem{Pioneering DAO}{Founded Wagumi DAO, one of the first DAOs in Japan, driving the entirety of development, operations, and community engagement.}
+        \resumeItem{Community Building}{Built a collaborative community for Web3 developers and technologists, fostering growth and engagement.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Keio University}{Tokyo, Japan}
+      {Bachelor of Laws (LL.B.), Political Science and Government}{2017 -- 2021}
+    \resumeSubheading
+      {Keio Shonan-Fujisawa Junior and Senior High School}{Fujisawa, Japan}
+      {High School Diploma}{2011 -- 2017}
+    \resumeSubheading
+      {Lawson Middle School}{Cupertino, CA, USA}
+      {Middle School Certificate}{2009}
+    \resumeSubheading
+      {Eaton Elementary School}{Cupertino, CA, USA}
+      {Elementary School Certificate}{2005 -- 2009}
+  \resumeSubHeadingListEnd
+
+\section{Publications \& Media}
+  \resumeSubHeadingListStart
+    \resumeItem{Personal Website}{\href{https://www.shunkakinoki.com/}{https://www.shunkakinoki.com/}}
+    \resumeItem{GitHub Profile}{\href{https://github.com/shunkakinoki}{https://github.com/shunkakinoki}}
+    \resumeItem{LinkedIn Profile}{\href{https://www.linkedin.com/in/shunkakinoki/}{https://www.linkedin.com/in/shunkakinoki/}}
+    \resumeItem{Blockworks Coverage}{\href{https://blockworks.co/news/exclusive-horizon-blockchain-games-sequence-rebrand}{Sequence acquires Light to address blockchain fragmentation}}
+    \resumeItem{BusinessWire Announcement}{\href{https://www.businesswire.com/news/home/20250408247816/en/Horizon-rebrands-to-Sequence-acquires-Light-to-unify-the-EVM-ecosystem-of-blockchains}{Horizon rebrands to Sequence; acquires Light}}
+    \resumeItem{CryptoTimes Interview (Japanese)}{\href{https://crypto-times.jp/interview-light/}{https://crypto-times.jp/interview-light/}}
+  \resumeSubHeadingListEnd
+
+\section{Technical Skills}
+  \resumeSubHeadingListStart
+    \resumeItem{Programming Languages}{Solidity, TypeScript, Python, JavaScript, Go}
+    \resumeItem{Frameworks \& Libraries}{Hardhat, Foundry, Ethers.js, React, Next.js}
+    \resumeItem{Technologies}{Cross-Chain Protocols, Chain Abstraction, EVM, L2s, RPC Infrastructure, Smart Contracts, Zero-Knowledge Proofs, Distributed Systems, Cloud Architecture (AWS, GCP)}
+    \resumeItem{Product Skills}{API Design, Protocol Development, Developer Tools, Product Strategy, User Experience in Web3}
+  \resumeSubHeadingListEnd
+
+\end{document}

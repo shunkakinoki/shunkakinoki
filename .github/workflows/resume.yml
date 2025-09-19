@@ -1,0 +1,27 @@
+name: Resume
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+jobs:
+  resume:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Build Resume
+        run: make resume
+  resume-check:
+    if: always()
+    needs:
+      - resume
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Resume Check
+        uses: re-actors/alls-green@release/v1
+        with:
+          jobs: ${{ toJSON(needs) }}

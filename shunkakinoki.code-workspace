@@ -1,0 +1,46 @@
+{
+  "folders": [
+    {
+      "name": "rules",
+      "path": "/Users/shunkakinoki/ghq/github.com/shunkakinoki/rules"
+    },
+    {
+      "name": "shunkakinoki",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "peacock.color": "#1f6fd0",
+    "workbench.colorCustomizations": {
+      "activityBar.activeBackground": "#4089e2",
+      "activityBar.background": "#4089e2",
+      "activityBar.foreground": "#e7e7e7",
+      "activityBar.inactiveForeground": "#e7e7e799",
+      "activityBarBadge.background": "#a61959",
+      "activityBarBadge.foreground": "#e7e7e7",
+      "commandCenter.border": "#e7e7e799",
+      "editorError.foreground": "#000000ff",
+      "editorGroup.border": "#4089e2",
+      "editorInfo.foreground": "#000000ff",
+      "editorWarning.foreground": "#000000ff",
+      "panel.border": "#4089e2",
+      "sash.hoverBorder": "#4089e2",
+      "sideBar.border": "#4089e2",
+      "statusBar.background": "#1f6fd0",
+      "statusBar.border": "#1f6fd0",
+      "statusBar.debuggingBackground": "#d0801f",
+      "statusBar.debuggingBorder": "#d0801f",
+      "statusBar.debuggingForeground": "#15202b",
+      "statusBar.foreground": "#e7e7e7",
+      "statusBarItem.hoverBackground": "#4089e2",
+      "statusBarItem.remoteBackground": "#1f6fd0",
+      "statusBarItem.remoteForeground": "#e7e7e7",
+      "tab.activeBorder": "#4089e2",
+      "titleBar.activeBackground": "#1f6fd0",
+      "titleBar.activeForeground": "#e7e7e7",
+      "titleBar.border": "#1f6fd0",
+      "titleBar.inactiveBackground": "#1f6fd099",
+      "titleBar.inactiveForeground": "#e7e7e799"
+    },
+  }
+}
